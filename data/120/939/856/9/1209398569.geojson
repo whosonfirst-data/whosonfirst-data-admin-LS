@@ -1,0 +1,61 @@
+{
+  "id": 1209398569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.74166,-29.15139,27.74166,-29.15139",
+    "geom:latitude":-29.15139,
+    "geom:longitude":27.74166,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ha Ramonaheng",
+    "gn:country_code":"LS",
+    "gn:dem":1711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11287519,
+    "gn:latitude":-29.15139,
+    "gn:longitude":27.74166,
+    "gn:modification_date":"2016-11-11",
+    "gn:name":"Ha Ramonaheng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11287519
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"f964e76de50a0a81175411ee3fb83855",
+    "wof:hierarchy":[
+        {
+            "country_id":85632173,
+            "locality_id":1209398569
+        }
+    ],
+    "wof:id":1209398569,
+    "wof:lastmodified":1536288220,
+    "wof:name":"Ha Ramonaheng",
+    "wof:parent_id":85632173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.74166,
+    -29.151390000000006,
+    27.74166,
+    -29.151390000000006
+],
+  "geometry": {"coordinates":[27.74166,-29.15139000000001],"type":"Point"}
+}

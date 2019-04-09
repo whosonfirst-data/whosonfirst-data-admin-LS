@@ -1,0 +1,69 @@
+{
+  "id": 1209932573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.02778,-28.97246,28.02778,-28.97246",
+    "geom:latitude":-28.97246,
+    "geom:longitude":28.02778,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mathokoane",
+    "gn:country_code":"LS",
+    "gn:dem":1682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932480,
+    "gn:latitude":-28.97246,
+    "gn:longitude":28.02778,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mathokoane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peete Molapo",
+        "Mathokoane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932480
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"5849ebea1e6aeecea025f8d56c037c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1209932573,
+            "region_id":85673823
+        }
+    ],
+    "wof:id":1209932573,
+    "wof:lastmodified":1537661848,
+    "wof:name":"Mathokoane",
+    "wof:parent_id":85673823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.02778,
+    -28.97246,
+    28.02778,
+    -28.97246
+],
+  "geometry": {"coordinates":[28.02778,-28.97246],"type":"Point"}
+}

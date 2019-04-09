@@ -1,0 +1,66 @@
+{
+  "id": 1310381411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.24791,-30.05252,28.24791,-30.05252",
+    "geom:latitude":-30.05252,
+    "geom:longitude":28.24791,
+    "gn:admin1_code":"18.0",
+    "gn:asciiname":"Seforong",
+    "gn:country_code":"LS",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932111,
+    "gn:latitude":-30.05252,
+    "gn:longitude":28.24791,
+    "gn:modification_date":"2016-10-31",
+    "gn:name":"Seforong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932111,
+        "wk:page":"Seforong"
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"10d5318a3d32d5340381bdb0d68dbe74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310381411,
+            "region_id":85673833
+        }
+    ],
+    "wof:id":1310381411,
+    "wof:lastmodified":1537568049,
+    "wof:name":"Seforong",
+    "wof:parent_id":85673833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.24791,
+    -30.05252,
+    28.24791,
+    -30.05252
+],
+  "geometry": {"coordinates":[28.24791,-30.05252],"type":"Point"}
+}

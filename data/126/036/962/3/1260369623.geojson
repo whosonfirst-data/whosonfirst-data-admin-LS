@@ -1,0 +1,65 @@
+{
+  "id": 1260369623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.313,-29.821,27.313,-29.821",
+    "geom:latitude":-29.821,
+    "geom:longitude":27.313,
+    "gn:admin1_code":"13.0",
+    "gn:asciiname":"Makeneng",
+    "gn:country_code":"LS",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428519,
+    "gn:latitude":-29.821,
+    "gn:longitude":27.313,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Makeneng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428519
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"3d4fed16794c8fda05784b2929d480b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1260369623,
+            "region_id":85673861
+        }
+    ],
+    "wof:id":1260369623,
+    "wof:lastmodified":1537090302,
+    "wof:name":"Makeneng",
+    "wof:parent_id":85673861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.313,
+    -29.821,
+    27.313,
+    -29.821
+],
+  "geometry": {"coordinates":[27.313,-29.821],"type":"Point"}
+}

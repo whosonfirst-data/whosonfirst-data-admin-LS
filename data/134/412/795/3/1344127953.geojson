@@ -1,0 +1,75 @@
+{
+  "id": 1344127953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.76667,-29.61667,27.76667,-29.61667",
+    "geom:latitude":-29.61667,
+    "geom:longitude":27.76667,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Nako",
+    "gn:cc2":"LS",
+    "gn:country_code":"LS",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932320,
+    "gn:latitude":-29.61667,
+    "gn:longitude":27.76667,
+    "gn:modification_date":"2013-08-18",
+    "gn:name":"Nako",
+    "gn:population":13146,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Makhalaneng",
+        "Naku",
+        "Nako"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932320,
+        "wk:page":"Makhalaneng"
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"75f619b21e487e1e097332467fdefeaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1344127953,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1344127953,
+    "wof:lastmodified":1537661846,
+    "wof:name":"Nako",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:population":13146,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.76667,
+    -29.61667000000001,
+    27.76667,
+    -29.61667000000001
+],
+  "geometry": {"coordinates":[27.76667,-29.61667000000001],"type":"Point"}
+}

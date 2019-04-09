@@ -1,0 +1,67 @@
+{
+  "id": 1327348183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.38333,-28.63333,28.38333,-28.63333",
+    "geom:latitude":-28.63333,
+    "geom:longitude":28.38333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Letsikas",
+    "gn:country_code":"LS",
+    "gn:dem":1797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932681,
+    "gn:latitude":-28.63333,
+    "gn:longitude":28.38333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Letsikas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932681
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"852ca6af21f527796dc905c6877326fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730535,
+            "locality_id":1327348183,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1327348183,
+    "wof:lastmodified":1536802354,
+    "wof:name":"Letsikas",
+    "wof:parent_id":1108730535,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.38333,
+    -28.63333,
+    28.38333,
+    -28.63333
+],
+  "geometry": {"coordinates":[28.38333,-28.63333],"type":"Point"}
+}

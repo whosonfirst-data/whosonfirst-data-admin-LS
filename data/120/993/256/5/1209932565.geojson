@@ -1,0 +1,69 @@
+{
+  "id": 1209932565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.80467,-29.74481,27.80467,-29.74481",
+    "geom:latitude":-29.74481,
+    "geom:longitude":27.80467,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kelechane",
+    "gn:country_code":"LS",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932800,
+    "gn:latitude":-29.74481,
+    "gn:longitude":27.80467,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Kelechane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khalechane",
+        "Kelechane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932800
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"09823849e731be811301883145ed86e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1209932565,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1209932565,
+    "wof:lastmodified":1537661851,
+    "wof:name":"Kelechane",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.80467,
+    -29.74481,
+    27.80467,
+    -29.74481
+],
+  "geometry": {"coordinates":[27.80467,-29.74481],"type":"Point"}
+}

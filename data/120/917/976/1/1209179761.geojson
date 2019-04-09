@@ -1,0 +1,61 @@
+{
+  "id": 1209179761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.60161,-29.52915,28.60161,-29.52915",
+    "geom:latitude":-29.52915,
+    "geom:longitude":28.60161,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Live-Stock",
+    "gn:country_code":"LS",
+    "gn:dem":2244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11427334,
+    "gn:latitude":-29.52915,
+    "gn:longitude":28.60161,
+    "gn:modification_date":"2017-01-09",
+    "gn:name":"Live-Stock",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11427334
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"2b5168ad37032d1d2af75a1ce8b8570b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632173,
+            "locality_id":1209179761
+        }
+    ],
+    "wof:id":1209179761,
+    "wof:lastmodified":1536295299,
+    "wof:name":"Live-Stock",
+    "wof:parent_id":85632173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.60161,
+    -29.52915,
+    28.60161,
+    -29.52915
+],
+  "geometry": {"coordinates":[28.60161,-29.52915],"type":"Point"}
+}

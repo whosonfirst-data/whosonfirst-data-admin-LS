@@ -1,0 +1,70 @@
+{
+  "id": 1327048427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.57097,-28.6244,28.57097,-28.6244",
+    "geom:latitude":-28.6244,
+    "geom:longitude":28.57097,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Libono",
+    "gn:country_code":"LS",
+    "gn:dem":1936,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932676,
+    "gn:latitude":-28.6244,
+    "gn:longitude":28.57097,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Libono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dibuno\u2019s",
+        "Libono\u2019s",
+        "Libono"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932676
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"a2e3d880913db02cc4116066bc0ca707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1327048427,
+            "region_id":85673839
+        }
+    ],
+    "wof:id":1327048427,
+    "wof:lastmodified":1537661850,
+    "wof:name":"Libono",
+    "wof:parent_id":85673839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.57097000000001,
+    -28.6244,
+    28.57097000000001,
+    -28.6244
+],
+  "geometry": {"coordinates":[28.57097000000001,-28.6244],"type":"Point"}
+}

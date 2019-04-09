@@ -1,0 +1,70 @@
+{
+  "id": 1243077791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.73308,-29.06506,27.73308,-29.06506",
+    "geom:latitude":-29.06506,
+    "geom:longitude":27.73308,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Kolonyama",
+    "gn:cc2":"LS",
+    "gn:country_code":"LS",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932746,
+    "gn:latitude":-29.06506,
+    "gn:longitude":27.73308,
+    "gn:modification_date":"2010-08-28",
+    "gn:name":"Kolonyama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manama",
+        "Kolonyama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932746
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"d05e596573d0f322369966685d27f818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1243077791,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":1243077791,
+    "wof:lastmodified":1537661851,
+    "wof:name":"Kolonyama",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.73308,
+    -29.06506,
+    27.73308,
+    -29.06506
+],
+  "geometry": {"coordinates":[27.73308,-29.06506],"type":"Point"}
+}

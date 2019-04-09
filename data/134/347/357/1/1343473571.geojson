@@ -1,0 +1,65 @@
+{
+  "id": 1343473571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.21481,-29.92369,27.21481,-29.92369",
+    "geom:latitude":-29.92369,
+    "geom:longitude":27.21481,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mokoroane",
+    "gn:country_code":"LS",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932405,
+    "gn:latitude":-29.92369,
+    "gn:longitude":27.21481,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mokoroane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932405
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"d54894317946a29dc52b348249db0993",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1343473571,
+            "region_id":85673829
+        }
+    ],
+    "wof:id":1343473571,
+    "wof:lastmodified":1536727505,
+    "wof:name":"Mokoroane",
+    "wof:parent_id":85673829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.21481,
+    -29.92369,
+    27.21481,
+    -29.92369
+],
+  "geometry": {"coordinates":[27.21481,-29.92369],"type":"Point"}
+}

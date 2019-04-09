@@ -1,0 +1,70 @@
+{
+  "id": 1276246847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.34329,-28.77549,28.34329,-28.77549",
+    "geom:latitude":-28.77549,
+    "geom:longitude":28.34329,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Selomas",
+    "gn:country_code":"LS",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932091,
+    "gn:latitude":-28.77549,
+    "gn:longitude":28.34329,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Selomas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Selomo",
+        "Selomos",
+        "Selomas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932091
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"366784ab13d8eebbf1d70c26d1e5298c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1276246847,
+            "region_id":85673839
+        }
+    ],
+    "wof:id":1276246847,
+    "wof:lastmodified":1537661844,
+    "wof:name":"Selomas",
+    "wof:parent_id":85673839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.34329,
+    -28.77549,
+    28.34329,
+    -28.77549
+],
+  "geometry": {"coordinates":[28.34329,-28.77549],"type":"Point"}
+}

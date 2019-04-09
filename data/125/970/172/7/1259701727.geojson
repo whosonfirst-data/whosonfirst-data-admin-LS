@@ -1,0 +1,70 @@
+{
+  "id": 1259701727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.00679,-29.34799,29.00679,-29.34799",
+    "geom:latitude":-29.34799,
+    "geom:longitude":29.00679,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Rafolatsane",
+    "gn:country_code":"LS",
+    "gn:dem":2270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932177,
+    "gn:latitude":-29.34799,
+    "gn:longitude":29.00679,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Rafolatsane",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rafolatsana",
+        "Rafolatsane"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932177,
+        "wk:page":"Rafolatsane"
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"c7d745f4ec73997fd04ab75a4544b670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1259701727,
+            "region_id":85673847
+        }
+    ],
+    "wof:id":1259701727,
+    "wof:lastmodified":1537661845,
+    "wof:name":"Rafolatsane",
+    "wof:parent_id":85673847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.00679,
+    -29.34799000000001,
+    29.00679,
+    -29.34799000000001
+],
+  "geometry": {"coordinates":[29.00679,-29.34799000000001],"type":"Point"}
+}

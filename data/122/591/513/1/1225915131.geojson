@@ -1,0 +1,65 @@
+{
+  "id": 1225915131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43486,-29.45344,27.43486,-29.45344",
+    "geom:latitude":-29.45344,
+    "geom:longitude":27.43486,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ha Tsautse",
+    "gn:country_code":"LS",
+    "gn:dem":1743,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11496161,
+    "gn:latitude":-29.45344,
+    "gn:longitude":27.43486,
+    "gn:modification_date":"2017-03-17",
+    "gn:name":"Ha Tsautse",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11496161
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"3103687c1f4f6b11909ceb1f10bf338d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1225915131,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1225915131,
+    "wof:lastmodified":1536914177,
+    "wof:name":"Ha Tsautse",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43486,
+    -29.45344,
+    27.43486,
+    -29.45344
+],
+  "geometry": {"coordinates":[27.43486,-29.45344],"type":"Point"}
+}

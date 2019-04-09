@@ -1,0 +1,65 @@
+{
+  "id": 1343334899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54197,-30.29446,27.54197,-30.29446",
+    "geom:latitude":-30.29446,
+    "geom:longitude":27.54197,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ha-Nkhetheleng",
+    "gn:country_code":"LS",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428502,
+    "gn:latitude":-30.29446,
+    "gn:longitude":27.54197,
+    "gn:modification_date":"2017-01-25",
+    "gn:name":"Ha-Nkhetheleng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428502
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"1ae897af38f81fb8568b46650cb4cd8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1343334899,
+            "region_id":85673829
+        }
+    ],
+    "wof:id":1343334899,
+    "wof:lastmodified":1536928303,
+    "wof:name":"Ha-Nkhetheleng",
+    "wof:parent_id":85673829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54197000000001,
+    -30.29446,
+    27.54197000000001,
+    -30.29446
+],
+  "geometry": {"coordinates":[27.54197000000001,-30.29446],"type":"Point"}
+}

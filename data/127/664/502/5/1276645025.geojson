@@ -1,0 +1,65 @@
+{
+  "id": 1276645025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.03563,-29.15881,28.03563,-29.15881",
+    "geom:latitude":-29.15881,
+    "geom:longitude":28.03563,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"ha Makhoroana",
+    "gn:country_code":"LS",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7670817,
+    "gn:latitude":-29.15881,
+    "gn:longitude":28.03563,
+    "gn:modification_date":"2011-03-03",
+    "gn:name":"ha Makhoroana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7670817
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"b1204808384ab515cb922ff3c511cbb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1276645025,
+            "region_id":85673823
+        }
+    ],
+    "wof:id":1276645025,
+    "wof:lastmodified":1536856954,
+    "wof:name":"ha Makhoroana",
+    "wof:parent_id":85673823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.03563,
+    -29.15881,
+    28.03563,
+    -29.15881
+],
+  "geometry": {"coordinates":[28.03563,-29.15881],"type":"Point"}
+}

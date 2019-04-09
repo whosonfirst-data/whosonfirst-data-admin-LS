@@ -1,0 +1,70 @@
+{
+  "id": 1310711729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.45833,-29.38849,27.45833,-29.38849",
+    "geom:latitude":-29.38849,
+    "geom:longitude":27.45833,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Tsiame",
+    "gn:country_code":"LS",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":931951,
+    "gn:latitude":-29.38849,
+    "gn:longitude":27.45833,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tsiame",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lipolisa",
+        "Likotsi",
+        "Tsiame"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":931951
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"51ba40c91dce5caf9c97a1bb2425c84b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310711729,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1310711729,
+    "wof:lastmodified":1537661842,
+    "wof:name":"Tsiame",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.45833,
+    -29.38849,
+    27.45833,
+    -29.38849
+],
+  "geometry": {"coordinates":[27.45833,-29.38849],"type":"Point"}
+}

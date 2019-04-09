@@ -1,0 +1,65 @@
+{
+  "id": 1276518309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.63008,-29.51522,27.63008,-29.51522",
+    "geom:latitude":-29.51522,
+    "geom:longitude":27.63008,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ha Phohleli",
+    "gn:country_code":"LS",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352302,
+    "gn:latitude":-29.51522,
+    "gn:longitude":27.63008,
+    "gn:modification_date":"2016-11-29",
+    "gn:name":"Ha Phohleli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352302
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"286af5be6c526caec3577a513437cebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1276518309,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1276518309,
+    "wof:lastmodified":1537027087,
+    "wof:name":"Ha Phohleli",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.63008,
+    -29.51522000000001,
+    27.63008,
+    -29.51522000000001
+],
+  "geometry": {"coordinates":[27.63008,-29.51522000000001],"type":"Point"}
+}

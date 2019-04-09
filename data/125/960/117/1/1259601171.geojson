@@ -1,0 +1,65 @@
+{
+  "id": 1259601171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.98333,-28.98333,27.98333,-28.98333",
+    "geom:latitude":-28.98333,
+    "geom:longitude":27.98333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Corn Exchange",
+    "gn:country_code":"LS",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932879,
+    "gn:latitude":-28.98333,
+    "gn:longitude":27.98333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Corn Exchange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932879
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"95f1274fcfb415e1af33e1011d6db150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1259601171,
+            "region_id":85673823
+        }
+    ],
+    "wof:id":1259601171,
+    "wof:lastmodified":1536689422,
+    "wof:name":"Corn Exchange",
+    "wof:parent_id":85673823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.98333,
+    -28.98333,
+    27.98333,
+    -28.98333
+],
+  "geometry": {"coordinates":[27.98333,-28.98333],"type":"Point"}
+}

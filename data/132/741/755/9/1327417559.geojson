@@ -1,0 +1,65 @@
+{
+  "id": 1327417559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.75357,-29.33471,27.75357,-29.33471",
+    "geom:latitude":-29.33471,
+    "geom:longitude":27.75357,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ha Khabele",
+    "gn:country_code":"LS",
+    "gn:dem":1741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11239009,
+    "gn:latitude":-29.33471,
+    "gn:longitude":27.75357,
+    "gn:modification_date":"2016-09-01",
+    "gn:name":"Ha Khabele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11239009
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"4a87d2dd213ec94dfb8cfd52ce74b245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1327417559,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1327417559,
+    "wof:lastmodified":1536702499,
+    "wof:name":"Ha Khabele",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.75357,
+    -29.33471,
+    27.75357,
+    -29.33471
+],
+  "geometry": {"coordinates":[27.75357,-29.33471],"type":"Point"}
+}

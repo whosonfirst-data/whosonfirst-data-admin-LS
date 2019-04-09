@@ -1,0 +1,65 @@
+{
+  "id": 1310323211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.36484,-28.72794,28.36484,-28.72794",
+    "geom:latitude":-28.72794,
+    "geom:longitude":28.36484,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Liphakoeng",
+    "gn:country_code":"LS",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932644,
+    "gn:latitude":-28.72794,
+    "gn:longitude":28.36484,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Liphakoeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673839
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932644
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"a00da6b2b7e339dd9e966defe811ed8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310323211,
+            "region_id":85673839
+        }
+    ],
+    "wof:id":1310323211,
+    "wof:lastmodified":1536682368,
+    "wof:name":"Liphakoeng",
+    "wof:parent_id":85673839,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.36484,
+    -28.72794,
+    28.36484,
+    -28.72794
+],
+  "geometry": {"coordinates":[28.36484,-28.72794],"type":"Point"}
+}

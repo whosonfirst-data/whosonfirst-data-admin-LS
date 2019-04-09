@@ -1,0 +1,65 @@
+{
+  "id": 1310416091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.28311,-29.92015,28.28311,-29.92015",
+    "geom:latitude":-29.92015,
+    "geom:longitude":28.28311,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Motsie",
+    "gn:country_code":"LS",
+    "gn:dem":1817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932344,
+    "gn:latitude":-29.92015,
+    "gn:longitude":28.28311,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Motsie",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932344
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"5babb8d9f89e0c5e8395912c2022b114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310416091,
+            "region_id":85673861
+        }
+    ],
+    "wof:id":1310416091,
+    "wof:lastmodified":1537044107,
+    "wof:name":"Motsie",
+    "wof:parent_id":85673861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.28311,
+    -29.92015,
+    28.28311,
+    -29.92015
+],
+  "geometry": {"coordinates":[28.28311,-29.92015],"type":"Point"}
+}

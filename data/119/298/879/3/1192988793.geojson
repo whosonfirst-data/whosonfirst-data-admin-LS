@@ -1,0 +1,65 @@
+{
+  "id": 1192988793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4153,-30.22196,27.4153,-30.22196",
+    "geom:latitude":-30.22196,
+    "geom:longitude":27.4153,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Phahameng",
+    "gn:country_code":"LS",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11103542,
+    "gn:latitude":-30.22196,
+    "gn:longitude":27.4153,
+    "gn:modification_date":"2016-04-06",
+    "gn:name":"Phahameng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11103542
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"c74d3e77ef402e16be47acf4d22ca7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1192988793,
+            "region_id":85673829
+        }
+    ],
+    "wof:id":1192988793,
+    "wof:lastmodified":1536383170,
+    "wof:name":"Phahameng",
+    "wof:parent_id":85673829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4153,
+    -30.22196,
+    27.4153,
+    -30.22196
+],
+  "geometry": {"coordinates":[27.4153,-30.22196],"type":"Point"}
+}

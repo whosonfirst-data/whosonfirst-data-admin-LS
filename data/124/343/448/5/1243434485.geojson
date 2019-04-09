@@ -1,0 +1,66 @@
+{
+  "id": 1243434485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.87038,-28.92899,27.87038,-28.92899",
+    "geom:latitude":-28.92899,
+    "geom:longitude":27.87038,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Hleoheng",
+    "gn:country_code":"LS",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7303689,
+    "gn:latitude":-28.92899,
+    "gn:longitude":27.87038,
+    "gn:modification_date":"2010-07-15",
+    "gn:name":"Hleoheng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7303689,
+        "wk:page":"Hleoheng"
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"be98b172deee55ec4948fab7229aebae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1243434485,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":1243434485,
+    "wof:lastmodified":1537568050,
+    "wof:name":"Hleoheng",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.87038,
+    -28.92899,
+    27.87038,
+    -28.92899
+],
+  "geometry": {"coordinates":[27.87038,-28.92899],"type":"Point"}
+}

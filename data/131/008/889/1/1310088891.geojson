@@ -1,0 +1,65 @@
+{
+  "id": 1310088891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.54315,-29.3755,27.54315,-29.3755",
+    "geom:latitude":-29.3755,
+    "geom:longitude":27.54315,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ha Matala",
+    "gn:country_code":"LS",
+    "gn:dem":1621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11282136,
+    "gn:latitude":-29.3755,
+    "gn:longitude":27.54315,
+    "gn:modification_date":"2016-11-04",
+    "gn:name":"Ha Matala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11282136
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"f6ef3e981cfda1019482ea7f79af8d80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310088891,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1310088891,
+    "wof:lastmodified":1537019634,
+    "wof:name":"Ha Matala",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.54315,
+    -29.3755,
+    27.54315,
+    -29.3755
+],
+  "geometry": {"coordinates":[27.54315,-29.3755],"type":"Point"}
+}

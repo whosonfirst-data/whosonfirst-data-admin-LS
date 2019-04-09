@@ -1,0 +1,69 @@
+{
+  "id": 1310223091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.59683,-29.50601,27.59683,-29.50601",
+    "geom:latitude":-29.50601,
+    "geom:longitude":27.59683,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mofokas",
+    "gn:country_code":"LS",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932440,
+    "gn:latitude":-29.50601,
+    "gn:longitude":27.59683,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Mofokas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mofoka",
+        "Mofokas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932440
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"6fc3bdf4d17f0bb93354830a4a7b249c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310223091,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1310223091,
+    "wof:lastmodified":1537661848,
+    "wof:name":"Mofokas",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.59683,
+    -29.50601,
+    27.59683,
+    -29.50601
+],
+  "geometry": {"coordinates":[27.59683,-29.50601],"type":"Point"}
+}

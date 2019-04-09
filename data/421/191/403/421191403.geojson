@@ -1,0 +1,71 @@
+{
+  "id": 421191403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"29.181166,-29.385465,29.181166,-29.385465",
+    "geom:latitude":-29.385465,
+    "geom:longitude":29.181166,
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mokhotlong",
+    "qs:name_adm0":"Lesotho",
+    "qs:name_adm1":"Mokhotlong",
+    "qs:photos":209,
+    "qs:photos_1k":42,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":243,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1136593,
+    "qs:woe_adm0":23424880,
+    "qs:woe_id":55881656,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881656,
+        "qs:id":1136593
+    },
+    "wof:country":"LS",
+    "wof:created":1459009691,
+    "wof:geomhash":"ccd5d73b508b534f789f965ea7ab5dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "county_id":421191403,
+            "region_id":85673847
+        }
+    ],
+    "wof:id":421191403,
+    "wof:lastmodified":1466635873,
+    "wof:name":"Mokhotlong",
+    "wof:parent_id":85673847,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.181166,
+    -29.385465,
+    29.181166,
+    -29.385465
+],
+  "geometry": {"coordinates":[29.181166,-29.385465],"type":"Point"}
+}

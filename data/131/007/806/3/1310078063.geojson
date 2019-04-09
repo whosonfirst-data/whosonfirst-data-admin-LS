@@ -1,0 +1,65 @@
+{
+  "id": 1310078063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0412,-29.2895,29.0412,-29.2895",
+    "geom:latitude":-29.2895,
+    "geom:longitude":29.0412,
+    "gn:admin1_code":"16.0",
+    "gn:asciiname":"Mangaung",
+    "gn:country_code":"LS",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11352294,
+    "gn:latitude":-29.2895,
+    "gn:longitude":29.0412,
+    "gn:modification_date":"2016-11-29",
+    "gn:name":"Mangaung",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11352294
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"d578b4a106ecad08034ed926e0f8b7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310078063,
+            "region_id":85673847
+        }
+    ],
+    "wof:id":1310078063,
+    "wof:lastmodified":1537034676,
+    "wof:name":"Mangaung",
+    "wof:parent_id":85673847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0412,
+    -29.2895,
+    29.0412,
+    -29.2895
+],
+  "geometry": {"coordinates":[29.0412,-29.2895],"type":"Point"}
+}

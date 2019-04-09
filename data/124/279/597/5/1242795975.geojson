@@ -1,0 +1,70 @@
+{
+  "id": 1242795975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9,-28.91667,28.9,-28.91667",
+    "geom:latitude":-28.91667,
+    "geom:longitude":28.9,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Lebingwanas Cattle Post",
+    "gn:cc2":"LS",
+    "gn:country_code":"LS",
+    "gn:dem":2817,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932723,
+    "gn:latitude":-28.91667,
+    "gn:longitude":28.9,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Lebingwanas Cattle Post",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ledingwana\u2019s Cattle Post",
+        "Lebingwanas Cattle Post"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932723
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"8c236e08f7b1bec696e30f41097bea40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1242795975,
+            "region_id":85673847
+        }
+    ],
+    "wof:id":1242795975,
+    "wof:lastmodified":1537661850,
+    "wof:name":"Lebingwanas Cattle Post",
+    "wof:parent_id":85673847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9,
+    -28.91667,
+    28.9,
+    -28.91667
+],
+  "geometry": {"coordinates":[28.9,-28.91667],"type":"Point"}
+}

@@ -1,0 +1,242 @@
+{
+  "id": 421179979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.47691,-30.15137,27.47691,-30.15137",
+    "geom:latitude":-30.15137,
+    "geom:longitude":27.47691,
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":9.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Mohaleshoek"
+    ],
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0647\u0627\u0644\u064a \u0647\u0648\u0643"
+    ],
+    "name:chi_x_preferred":[
+        "\u83ab\u54c8\u840a\u65af\u80e1\u514b"
+    ],
+    "name:deu_x_preferred":[
+        "Mohale\u2019s Hoek"
+    ],
+    "name:dut_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:eng_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:fra_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:fre_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:ger_x_preferred":[
+        "Mohale\u2019s Hoek"
+    ],
+    "name:ita_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e2\u30cf\u30ec\u30b9\u30fb\u30d5\u30fc\u30af"
+    ],
+    "name:nld_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:nob_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:pol_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:por_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:ron_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:rum_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0445\u0430\u043b\u0435\u0441-\u0425\u0443\u043a"
+    ],
+    "name:sot_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:spa_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:swe_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0445\u0430\u043b\u0435\u0441-\u0425\u0443\u043a"
+    ],
+    "name:unk_x_variant":[
+        "Mohale\u2019s Hoek"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Lesotho",
+    "ne:ADM0_A3":"LSO",
+    "ne:ADM1NAME":"Mohale's Hoek",
+    "ne:ADMIN1_COD":15,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":932438,
+    "ne:GEONAMESNO":"GeoNames match general.",
+    "ne:GN_ASCII":"Mohale's Hoek",
+    "ne:GN_POP":0,
+    "ne:GTOPO30":1554.0,
+    "ne:ISO_A2":"LS",
+    "ne:LABELRANK":8,
+    "ne:LATITUDE":-30.159,
+    "ne:LONGITUDE":27.479998,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Mohales Hoek",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Mohales Hoek",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":24992,
+    "ne:POP_MIN":24992,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Lesotho",
+    "ne:SOV_A3":"LSO",
+    "ne:TIMEZONE":"Africa/Maseru",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"LS",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":932438,
+    "qs:gn_pop":28310,
+    "qs:name":"Mohales Hoek",
+    "qs:name_adm0":"Lesotho",
+    "qs:name_adm1":"Mohale's Hoek",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":27,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":273860,
+    "qs:woe_adm0":23424880,
+    "qs:woe_id":1352403,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":319,
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932438,
+        "gp:id":1352403,
+        "qs:id":273860,
+        "wd:id":"Q1818943",
+        "wk:page":"Mohale's Hoek"
+    },
+    "wof:country":"LS",
+    "wof:created":1459009240,
+    "wof:geomhash":"58677ec6773bc53118e1c49a2654af21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":421179979,
+            "region_id":85673829
+        }
+    ],
+    "wof:id":421179979,
+    "wof:lastmodified":1553816369,
+    "wof:name":"Mohales Hoek",
+    "wof:parent_id":85673829,
+    "wof:placetype":"locality",
+    "wof:population":28310,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.47691,
+    -30.15137,
+    27.47691,
+    -30.15137
+],
+  "geometry": {"coordinates":[27.47691,-30.15137],"type":"Point"}
+}

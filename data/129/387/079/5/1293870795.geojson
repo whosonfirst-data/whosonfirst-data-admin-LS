@@ -1,0 +1,65 @@
+{
+  "id": 1293870795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.0991,-28.8652,28.0991,-28.8652",
+    "geom:latitude":-28.8652,
+    "geom:longitude":28.0991,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ha Lejone",
+    "gn:country_code":"LS",
+    "gn:dem":1776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205649,
+    "gn:latitude":-28.8652,
+    "gn:longitude":28.0991,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ha Lejone",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205649
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"68902876913aed4d9cbd60375023526f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1293870795,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":1293870795,
+    "wof:lastmodified":1536731935,
+    "wof:name":"Ha Lejone",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.0991,
+    -28.8652,
+    28.0991,
+    -28.8652
+],
+  "geometry": {"coordinates":[28.0991,-28.8652],"type":"Point"}
+}

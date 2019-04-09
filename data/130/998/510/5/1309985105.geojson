@@ -1,0 +1,65 @@
+{
+  "id": 1309985105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.60808,-29.67996,27.60808,-29.67996",
+    "geom:latitude":-29.67996,
+    "geom:longitude":27.60808,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Ha Moima",
+    "gn:country_code":"LS",
+    "gn:dem":1793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11377081,
+    "gn:latitude":-29.67996,
+    "gn:longitude":27.60808,
+    "gn:modification_date":"2016-12-07",
+    "gn:name":"Ha Moima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11377081
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"3b71d7071906a68f810e6cc4874a5249",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1309985105,
+            "region_id":85673827
+        }
+    ],
+    "wof:id":1309985105,
+    "wof:lastmodified":1536672713,
+    "wof:name":"Ha Moima",
+    "wof:parent_id":85673827,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.60808,
+    -29.67996,
+    27.60808,
+    -29.67996
+],
+  "geometry": {"coordinates":[27.60808,-29.67996],"type":"Point"}
+}

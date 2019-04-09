@@ -1,0 +1,71 @@
+{
+  "id": 1209932393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.05,-29.16667,28.05,-29.16667",
+    "geom:latitude":-29.16667,
+    "geom:longitude":28.05,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Moletsanes",
+    "gn:cc2":"LS",
+    "gn:country_code":"LS",
+    "gn:dem":1839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932398,
+    "gn:latitude":-29.16667,
+    "gn:longitude":28.05,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Moletsanes",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Moletsane\u2019s Store",
+        "Moletsani Store",
+        "Moletsanes"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932398
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"1b0d13f2804ecbd97bf4598c20d5ca67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1209932393,
+            "region_id":85673823
+        }
+    ],
+    "wof:id":1209932393,
+    "wof:lastmodified":1537661847,
+    "wof:name":"Moletsanes",
+    "wof:parent_id":85673823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.05,
+    -29.16667,
+    28.05,
+    -29.16667
+],
+  "geometry": {"coordinates":[28.05,-29.16667],"type":"Point"}
+}

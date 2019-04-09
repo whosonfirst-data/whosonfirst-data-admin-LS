@@ -1,0 +1,65 @@
+{
+  "id": 1310078687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.1068,-29.9581,28.1068,-29.9581",
+    "geom:latitude":-29.9581,
+    "geom:longitude":28.1068,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ha Sekhebetlele",
+    "gn:country_code":"LS",
+    "gn:dem":2345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11239736,
+    "gn:latitude":-29.9581,
+    "gn:longitude":28.1068,
+    "gn:modification_date":"2016-09-16",
+    "gn:name":"Ha Sekhebetlele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11239736
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"91524680b14c2c28b4e0fcb5dddba8d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1310078687,
+            "region_id":85673829
+        }
+    ],
+    "wof:id":1310078687,
+    "wof:lastmodified":1537033838,
+    "wof:name":"Ha Sekhebetlele",
+    "wof:parent_id":85673829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.1068,
+    -29.9581,
+    28.1068,
+    -29.9581
+],
+  "geometry": {"coordinates":[28.1068,-29.9581],"type":"Point"}
+}

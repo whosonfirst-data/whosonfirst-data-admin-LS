@@ -1,0 +1,65 @@
+{
+  "id": 1344071671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.68333,-30.41667,27.68333,-30.41667",
+    "geom:latitude":-30.41667,
+    "geom:longitude":27.68333,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Moyeni Camp",
+    "gn:country_code":"LS",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932338,
+    "gn:latitude":-30.41667,
+    "gn:longitude":27.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Moyeni Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932338
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"8dc883a85100a37dc0a26060b95c1231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1344071671,
+            "region_id":85673833
+        }
+    ],
+    "wof:id":1344071671,
+    "wof:lastmodified":1536858017,
+    "wof:name":"Moyeni Camp",
+    "wof:parent_id":85673833,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.68333,
+    -30.41667,
+    27.68333,
+    -30.41667
+],
+  "geometry": {"coordinates":[27.68333,-30.41667],"type":"Point"}
+}

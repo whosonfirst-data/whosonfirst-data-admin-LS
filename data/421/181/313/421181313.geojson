@@ -1,0 +1,71 @@
+{
+  "id": 421181313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"28.11603,-29.459291,28.11603,-29.459291",
+    "geom:latitude":-29.459291,
+    "geom:longitude":28.11603,
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mants'onyane",
+    "qs:name_adm0":"Lesotho",
+    "qs:name_adm1":"Thaba-Tseka",
+    "qs:photos":189,
+    "qs:photos_1k":38,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":189,
+    "qs:photos_sr":4,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "qs:qs_id":486679,
+    "qs:woe_adm0":23424880,
+    "qs:woe_id":55881647,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55881647,
+        "qs:id":486679
+    },
+    "wof:country":"LS",
+    "wof:created":1459009292,
+    "wof:geomhash":"df3b2cd8201e423131971b0d5f52019c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "county_id":421181313,
+            "region_id":85673857
+        }
+    ],
+    "wof:id":421181313,
+    "wof:lastmodified":1466635853,
+    "wof:name":"Mants'onyane",
+    "wof:parent_id":85673857,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.11603,
+    -29.459291,
+    28.11603,
+    -29.459291
+],
+  "geometry": {"coordinates":[28.11603,-29.459291],"type":"Point"}
+}

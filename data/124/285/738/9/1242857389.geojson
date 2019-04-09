@@ -1,0 +1,65 @@
+{
+  "id": 1242857389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.544,-30.174,27.544,-30.174",
+    "geom:latitude":-30.174,
+    "geom:longitude":27.544,
+    "gn:admin1_code":"15.0",
+    "gn:asciiname":"Ha Mafethe",
+    "gn:country_code":"LS",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11398276,
+    "gn:latitude":-30.174,
+    "gn:longitude":27.544,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ha Mafethe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673829
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11398276
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"06f79738903924bfa46529664290980e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1242857389,
+            "region_id":85673829
+        }
+    ],
+    "wof:id":1242857389,
+    "wof:lastmodified":1536660724,
+    "wof:name":"Ha Mafethe",
+    "wof:parent_id":85673829,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.544,
+    -30.174,
+    27.544,
+    -30.174
+],
+  "geometry": {"coordinates":[27.544,-30.174],"type":"Point"}
+}

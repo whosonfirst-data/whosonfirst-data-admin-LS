@@ -1,0 +1,71 @@
+{
+  "id": 1209825519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.4,-29.86667,27.4,-29.86667",
+    "geom:latitude":-29.86667,
+    "geom:longitude":27.4,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Helspoort",
+    "gn:cc2":"LS",
+    "gn:country_code":"LS",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932827,
+    "gn:latitude":-29.86667,
+    "gn:longitude":27.4,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Helspoort",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hellspoort Store",
+        "Hellspoort",
+        "Helspoort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932827
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"38e6935079c5257da38ee937f8324782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1209825519,
+            "region_id":85673861
+        }
+    ],
+    "wof:id":1209825519,
+    "wof:lastmodified":1537661852,
+    "wof:name":"Helspoort",
+    "wof:parent_id":85673861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.4,
+    -29.86667000000001,
+    27.4,
+    -29.86667000000001
+],
+  "geometry": {"coordinates":[27.4,-29.86667000000001],"type":"Point"}
+}

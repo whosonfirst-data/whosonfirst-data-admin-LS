@@ -1,0 +1,69 @@
+{
+  "id": 1259493323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.90116,-29.24077,28.90116,-29.24077",
+    "geom:latitude":-29.24077,
+    "geom:longitude":28.90116,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Mokoeng",
+    "gn:country_code":"LS",
+    "gn:dem":2190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932411,
+    "gn:latitude":-29.24077,
+    "gn:longitude":28.90116,
+    "gn:modification_date":"2017-05-21",
+    "gn:name":"Mokoeng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tlokoeng",
+        "Mokoeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673847
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932411
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"f3aba7735c19326c237d69907a0bcf25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1259493323,
+            "region_id":85673847
+        }
+    ],
+    "wof:id":1259493323,
+    "wof:lastmodified":1537661847,
+    "wof:name":"Mokoeng",
+    "wof:parent_id":85673847,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.90116,
+    -29.24077,
+    28.90116,
+    -29.24077
+],
+  "geometry": {"coordinates":[28.90116,-29.24077],"type":"Point"}
+}

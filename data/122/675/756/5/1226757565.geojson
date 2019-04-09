@@ -1,0 +1,66 @@
+{
+  "id": 1226757565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.21328,-29.00699,28.21328,-29.00699",
+    "geom:latitude":-29.00699,
+    "geom:longitude":28.21328,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Pitseng",
+    "gn:country_code":"LS",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932248,
+    "gn:latitude":-29.00699,
+    "gn:longitude":28.21328,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Pitseng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932248,
+        "wk:page":"Pitseng"
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"69989ecbcb0cf393b9b01e8ea1ef50af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1226757565,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":1226757565,
+    "wof:lastmodified":1537568049,
+    "wof:name":"Pitseng",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21328,
+    -29.00699,
+    28.21328,
+    -29.00699
+],
+  "geometry": {"coordinates":[28.21328,-29.00699],"type":"Point"}
+}

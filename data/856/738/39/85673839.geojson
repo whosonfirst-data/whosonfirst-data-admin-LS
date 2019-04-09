@@ -1,0 +1,323 @@
+{
+  "id": 85673839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.158777,
+    "geom:area_square_m":1720464520.106102,
+    "geom:bbox":"28.2181160939,-29.0726437306,28.8308813819,-28.5707614137",
+    "geom:latitude":-28.799762,
+    "geom:longitude":28.563809,
+    "gn:population":188480,
+    "iso:country":"LS",
+    "label:eng_x_preferred_longname":[
+        "Butha-Buthe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "lbl:latitude":-28.76519,
+    "lbl:longitude":28.56847,
+    "mps:latitude":-28.76519,
+    "mps:longitude":28.56847,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u062b\u0627-\u0628\u0648\u062b"
+    ],
+    "name:arm_x_preferred":[
+        "\u0532\u0578\u0582\u0569\u0561 \u0532\u0578\u0582\u0569\u0565"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09a5\u09be \u09ac\u09c1\u09a5\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
+    ],
+    "name:chi_x_preferred":[
+        "\u5e03\u5854-\u5e03\u6cf0\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Butha-Buthe District"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Butha-Buthe"
+    ],
+    "name:dut_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:eng_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:eng_x_variant":[
+        "Butha-Buthe District"
+    ],
+    "name:est_x_preferred":[
+        "Butha-Buthe ringkond"
+    ],
+    "name:fin_x_preferred":[
+        "Butha-Buthen alue"
+    ],
+    "name:fra_x_preferred":[
+        "District de Butha-Buthe"
+    ],
+    "name:fre_x_preferred":[
+        "District de Butha-Buthe"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d1\u10e3\u10e2\u10d0-\u10d1\u10e3\u10e2\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03c4\u03b1-\u039c\u03c0\u03bf\u03cd\u03b8\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aac\u0ac1\u0aa5\u0abe-\u0aac\u0ac1\u0aa5\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0942\u0925\u093e-\u092c\u0942\u0925\u0947 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u0569\u0561 \u0532\u0578\u0582\u0569\u0565"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Butha-Buthe"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Butha-Buthe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30fc\u30bf\u30fb\u30d6\u30fc\u30c6\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cac\u0cc1\u0ca5\u0cbe-\u0cac\u0cc1\u0ca5\u0cc6 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ud0c0\ubd80\ud14c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Buthabethes distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Buta But\u0117s rajonas"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u0941\u091f\u093e-\u092c\u0941\u0920\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Daerah Butha-Buthe"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Butha-Buthe"
+    ],
+    "name:nld_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:nob_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Butha-Buthe"
+    ],
+    "name:por_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:ron_x_preferred":[
+        "Districtul Botha-Buthe"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Botha-Buthe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db6\u0dd4\u0dad\u0dda \u0db6\u0dd4\u0dad\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Butha-Buthe"
+    ],
+    "name:swe_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe -\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2c\u0c41\u0c25\u0c3e-\u0c2c\u0c41\u0c25\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1a\u0e31\u0e15\u0e18\u0e32-\u0e1a\u0e31\u0e15\u0e40\u0e18"
+    ],
+    "name:tur_x_preferred":[
+        "Butha-Buthe B\u00f6lgesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Butha-Buthe District"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u062a\u06be\u0627-\u0628\u0648\u062a\u06be \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Butha-Buthe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5854-\u5e03\u6cf0\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"LSO",
+    "ne:adm0_label":"5",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"LSO-1211",
+    "ne:adm1_code":"LSO-1211",
+    "ne:admin":"Lesotho",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"LS.BB",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1211",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"LT11",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Lesotho",
+    "ne:gn_a1_code":"LS.11",
+    "ne:gn_id":"932888",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Butha-Buthe",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"LT11",
+    "ne:gns_id":"-1405402",
+    "ne:gns_lang":"eng",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Butha-Buthe District",
+    "ne:gns_region":"",
+    "ne:gu_a3":"LSO",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"LS-",
+    "ne:iso_a2":"LS",
+    "ne:labelrank":"8",
+    "ne:latitude":"-28.83280000000",
+    "ne:longitude":"28.52440000000",
+    "ne:mapcolor13":8,
+    "ne:mapcolor9":2,
+    "ne:name":"Butha-Buthe",
+    "ne:name_alt":"Butha Buthe",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"BB",
+    "ne:provnum_ne":"8",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"8",
+    "ne:sov_a3":"LSO",
+    "ne:sub_code":"",
+    "ne:type":"District",
+    "ne:type_en":"District",
+    "ne:wikipedia":"",
+    "ne:woe_id":20069862,
+    "ne:woe_label":"Butha-Buthe, LS, Lesotho",
+    "ne:woe_name":"Butha-Buthe",
+    "qs:a0":"Lesotho",
+    "qs:a0_lc":"LS",
+    "qs:a1":"Butha-Buthe",
+    "qs:a1_lc":"LSO-1211",
+    "qs:adm0":"Lesotho",
+    "qs:adm0_a3":"LSO",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"District",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2006-04-09",
+    "statoids:area_km":"1,767",
+    "statoids:area_mi":"682",
+    "statoids:as_of_date":"2006-04-09",
+    "statoids:capital":"Butha-Buthe",
+    "statoids:country":"LS",
+    "statoids:gec":"LT11",
+    "statoids:hasc":"LS.BB",
+    "statoids:iso":"B",
+    "statoids:name":"Butha-Buthe",
+    "statoids:population":"110320",
+    "statoids:timezone":"+2",
+    "statoids:type":"district",
+    "unlc:subdivision":"LS-B",
+    "wof:belongsto":[
+        102191573,
+        85632173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"LT11",
+        "gn:id":932888,
+        "gp:id":20069862,
+        "hasc:id":"LS.BB",
+        "iso:id":"LS-B",
+        "qs:id":1180821,
+        "unlc:id":"LS-B",
+        "wd:id":"Q535632",
+        "wk:page":"Butha-Buthe District"
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"ee05e9da26adcf2f4b3e9b6c922ee419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "region_id":85673839
+        }
+    ],
+    "wof:id":85673839,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "sot",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "sot",
+        "eng"
+    ],
+    "wof:lastmodified":1553814807,
+    "wof:name":"Butha-Buthe",
+    "wof:parent_id":85632173,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"district",
+    "wof:population":110320,
+    "wof:population_rank":9,
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:shortcode":"BB",
+    "wof:subdivision":"LS-B",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.21811609388266,
+    -29.07264373062361,
+    28.83088138187031,
+    -28.57076141370823
+],
+  "geometry": {"coordinates":[[[28.82793658600468,-28.75953432454941],[28.82793582517826,-28.75953622751484],[28.82700565009071,-28.76186166748192],[28.81801395038354,-28.82087615321188],[28.81894412637041,-28.84247690198737],[28.82095950707566,-28.84805795700908],[28.82328494614342,-28.85136524800777],[28.8256103861105,-28.85405242318075],[28.82809085480915,-28.85622283261756],[28.83026126514534,-28.85885833094716],[28.83088138187031,-28.86232065157674],[28.8299512058835,-28.8669198537682],[28.82359500540525,-28.87436126076352],[28.8186340680079,-28.87844369901745],[28.79129723457976,-28.88924407295553],[28.76463219561936,-28.89539356875815],[28.75806928866677,-28.89839080229365],[28.75295332163853,-28.90242156280482],[28.74117109576952,-28.91549570076592],[28.7141959984466,-28.95223764415192],[28.70876997215652,-28.96241790046571],[28.70504926910854,-28.97311492251561],[28.69941653814277,-29.00515431092265],[28.69662601108161,-29.01321583374369],[28.69151004405336,-29.0211223278331],[28.68515384267573,-29.02799529404751],[28.67662723186129,-29.03455820100015],[28.66763553215412,-29.03977751991658],[28.65647342301014,-29.04442839895142],[28.64448449066674,-29.04799407326783],[28.63208214717338,-29.05031951323491],[28.62123009639191,-29.05135304110991],[28.60991295671761,-29.05078460122832],[28.59952599482887,-29.04923430761716],[28.55498091014096,-29.0341964657942],[28.54676435678971,-29.03342131853896],[28.5395813331121,-29.03435149452582],[28.53462039571474,-29.03745208084882],[28.53058963430425,-29.04292978308297],[28.51803226117994,-29.06535735415855],[28.51493167485694,-29.06969817483088],[28.5102807958221,-29.07264373062361],[28.50237430173269,-29.07150684996111],[28.49446780764328,-29.065460706946],[28.48547610883543,-29.04882089556781],[28.48263390493082,-29.03626352244356],[28.48284060960651,-29.02473967899294],[28.50407962407542,-28.95962737430386],[28.50500980006228,-28.95006723381573],[28.5033044777195,-28.93921518303421],[28.49849856905377,-28.92541757556063],[28.496173129986,-28.91425546551727],[28.49539798363008,-28.90257659243576],[28.49353763165641,-28.89203460091608],[28.48888675262157,-28.88118255013455],[28.47550255719733,-28.87498137748855],[28.46744103437629,-28.87343108477671],[28.4510079276738,-28.87312102551488],[28.44046593615406,-28.87172576243393],[28.4317842948094,-28.86867685295437],[28.42382612477587,-28.86319915072016],[28.41436933797462,-28.85265715920048],[28.40522260863651,-28.84485401789857],[28.39080488533722,-28.83844613967756],[28.38010786328732,-28.83539723109732],[28.36863569488145,-28.83007455759468],[28.33339236826322,-28.80816375045669],[28.32005984878305,-28.80408131310207],[28.30822594607059,-28.80351287142184],[28.29969933435683,-28.80552825302641],[28.29163781063653,-28.80609669380732],[28.26621300602545,-28.80144581477248],[28.26016686390972,-28.79694996446926],[28.25561933766238,-28.78816497213569],[28.25127851699,-28.76620248815425],[28.25096845862754,-28.73126921989854],[28.2463175795927,-28.71731658279401],[28.22569868274809,-28.70574106160069],[28.21811609388266,-28.70065207603244],[28.23071049029693,-28.69953908316211],[28.25086429824881,-28.70739389950882],[28.27391198694869,-28.70956431074433],[28.29706302933539,-28.70687713557129],[28.31721683728728,-28.70005584709963],[28.33644047015162,-28.68465627007078],[28.36351892116136,-28.64362518285589],[28.38294926050003,-28.62646860754018],[28.40341312681443,-28.61892384865666],[28.54262943500049,-28.6107589721488],[28.56247318548918,-28.60652150336466],[28.61942061367046,-28.57241505830825],[28.63430342586247,-28.57076141370823],[28.65321700036435,-28.58306040351476],[28.66654951984452,-28.59721974709362],[28.67564457233919,-28.61375620478498],[28.68174239129837,-28.63339324969866],[28.68897709181937,-28.67442433691355],[28.69951908333906,-28.68848032590626],[28.74385746245196,-28.68951385468063],[28.75863692185652,-28.70046925735028],[28.78767907672807,-28.74873504598554],[28.79594730602338,-28.75431610100719],[28.82715987123112,-28.75927703750523],[28.82793658600468,-28.75953432454941]]],"type":"Polygon"}
+}

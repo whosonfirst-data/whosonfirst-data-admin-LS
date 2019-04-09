@@ -1,0 +1,65 @@
+{
+  "id": 1343341839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.48071,-29.17025,28.48071,-29.17025",
+    "geom:latitude":-29.17025,
+    "geom:longitude":28.48071,
+    "gn:admin1_code":"12.0",
+    "gn:asciiname":"Ha Thibeli",
+    "gn:country_code":"LS",
+    "gn:dem":2165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11397271,
+    "gn:latitude":-29.17025,
+    "gn:longitude":28.48071,
+    "gn:modification_date":"2016-12-27",
+    "gn:name":"Ha Thibeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11397271
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"b565193a636cc429f41903644e70bf2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1343341839,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":1343341839,
+    "wof:lastmodified":1536918082,
+    "wof:name":"Ha Thibeli",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.48071,
+    -29.17025,
+    28.48071,
+    -29.17025
+],
+  "geometry": {"coordinates":[28.48071,-29.17025],"type":"Point"}
+}

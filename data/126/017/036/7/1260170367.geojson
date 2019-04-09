@@ -1,0 +1,65 @@
+{
+  "id": 1260170367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.66,-29.119,27.66,-29.119",
+    "geom:latitude":-29.119,
+    "geom:longitude":27.66,
+    "gn:admin1_code":"10.0",
+    "gn:asciiname":"Ha Nepe",
+    "gn:country_code":"LS",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11288678,
+    "gn:latitude":-29.119,
+    "gn:longitude":27.66,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Ha Nepe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11288678
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"c5ff6a13edcd0a3161f5d36de12f8480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1260170367,
+            "region_id":85673823
+        }
+    ],
+    "wof:id":1260170367,
+    "wof:lastmodified":1536864616,
+    "wof:name":"Ha Nepe",
+    "wof:parent_id":85673823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.66,
+    -29.119,
+    27.66,
+    -29.119
+],
+  "geometry": {"coordinates":[27.66,-29.119],"type":"Point"}
+}

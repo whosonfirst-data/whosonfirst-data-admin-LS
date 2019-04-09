@@ -1,0 +1,65 @@
+{
+  "id": 1293116997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.13354,-28.96386,28.13354,-28.96386",
+    "geom:latitude":-28.96386,
+    "geom:longitude":28.13354,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Makhoas",
+    "gn:country_code":"LS",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932579,
+    "gn:latitude":-28.96386,
+    "gn:longitude":28.13354,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Makhoas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932579
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"1d3c8871a3ef90ead4e155f46307e753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1293116997,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":1293116997,
+    "wof:lastmodified":1536823335,
+    "wof:name":"Makhoas",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.13354,
+    -28.96386,
+    28.13354,
+    -28.96386
+],
+  "geometry": {"coordinates":[28.13354,-28.96386],"type":"Point"}
+}

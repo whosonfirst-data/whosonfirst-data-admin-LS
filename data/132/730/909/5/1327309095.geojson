@@ -1,0 +1,65 @@
+{
+  "id": 1327309095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.5931,-29.50911,28.5931,-29.50911",
+    "geom:latitude":-29.50911,
+    "geom:longitude":28.5931,
+    "gn:admin1_code":"19.0",
+    "gn:asciiname":"Thabong I",
+    "gn:country_code":"LS",
+    "gn:dem":2191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428275,
+    "gn:latitude":-29.50911,
+    "gn:longitude":28.5931,
+    "gn:modification_date":"2017-01-24",
+    "gn:name":"Thabong I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428275
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"4c5f43769f74a4a59f808fc2ec2b3455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1327309095,
+            "region_id":85673857
+        }
+    ],
+    "wof:id":1327309095,
+    "wof:lastmodified":1536857698,
+    "wof:name":"Thabong I",
+    "wof:parent_id":85673857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.5931,
+    -29.50911,
+    28.5931,
+    -29.50911
+],
+  "geometry": {"coordinates":[28.5931,-29.50911],"type":"Point"}
+}

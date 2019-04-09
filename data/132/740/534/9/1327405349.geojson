@@ -1,0 +1,65 @@
+{
+  "id": 1327405349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.88453,-30.03169,28.88453,-30.03169",
+    "geom:latitude":-30.03169,
+    "geom:longitude":28.88453,
+    "gn:admin1_code":"17.0",
+    "gn:asciiname":"Ha Apeal Makhoareng",
+    "gn:country_code":"LS",
+    "gn:dem":2078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11428146,
+    "gn:latitude":-30.03169,
+    "gn:longitude":28.88453,
+    "gn:modification_date":"2017-01-20",
+    "gn:name":"Ha Apeal Makhoareng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673851
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11428146
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"ac446496cec98ec1c99c8e90fec289e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1327405349,
+            "region_id":85673851
+        }
+    ],
+    "wof:id":1327405349,
+    "wof:lastmodified":1536720257,
+    "wof:name":"Ha Apeal Makhoareng",
+    "wof:parent_id":85673851,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.88453,
+    -30.03169,
+    28.88453,
+    -30.03169
+],
+  "geometry": {"coordinates":[28.88453,-30.03169],"type":"Point"}
+}

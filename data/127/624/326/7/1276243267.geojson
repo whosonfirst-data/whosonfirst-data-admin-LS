@@ -1,0 +1,65 @@
+{
+  "id": 1276243267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.07512,-28.88291,28.07512,-28.88291",
+    "geom:latitude":-28.88291,
+    "geom:longitude":28.07512,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Hlotse Camp",
+    "gn:country_code":"LS",
+    "gn:dem":1592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932816,
+    "gn:latitude":-28.88291,
+    "gn:longitude":28.07512,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Hlotse Camp",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932816
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"2f996bd70f840594991eb066c1cd9d63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1276243267,
+            "region_id":85673843
+        }
+    ],
+    "wof:id":1276243267,
+    "wof:lastmodified":1536899294,
+    "wof:name":"Hlotse Camp",
+    "wof:parent_id":85673843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.07512,
+    -28.88291,
+    28.07512,
+    -28.88291
+],
+  "geometry": {"coordinates":[28.07512,-28.88291],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1225863221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.43436,-29.70102,27.43436,-29.70102",
+    "geom:latitude":-29.70102,
+    "geom:longitude":27.43436,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Motsekuoa",
+    "gn:country_code":"LS",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932347,
+    "gn:latitude":-29.70102,
+    "gn:longitude":27.43436,
+    "gn:modification_date":"2016-09-23",
+    "gn:name":"Motsekuoa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motsekuoas",
+        "Mosekuwa\u2019s Store",
+        "Motsekuoa",
+        "Ha Bele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632173,
+        85673861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932347,
+        "wk:page":"%27Mamants%27O"
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"c6b3260539d1e615755386c5ce28c5f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632173,
+            "locality_id":1225863221,
+            "region_id":85673861
+        }
+    ],
+    "wof:id":1225863221,
+    "wof:lastmodified":1537661846,
+    "wof:name":"Motsekuoa",
+    "wof:parent_id":85673861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.43436,
+    -29.70102,
+    27.43436,
+    -29.70102
+],
+  "geometry": {"coordinates":[27.43436,-29.70102],"type":"Point"}
+}

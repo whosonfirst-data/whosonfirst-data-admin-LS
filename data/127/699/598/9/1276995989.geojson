@@ -1,0 +1,67 @@
+{
+  "id": 1276995989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"27.35,-30.15,27.35,-30.15",
+    "geom:latitude":-30.15,
+    "geom:longitude":27.35,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Makhinas",
+    "gn:country_code":"LS",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":932582,
+    "gn:latitude":-30.15,
+    "gn:longitude":27.35,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Makhinas",
+    "gn:population":0,
+    "gn:timezone":"Africa/Maseru",
+    "iso:country":"LS",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85633813,
+        85688915,
+        1108730531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":932582
+    },
+    "wof:country":"LS",
+    "wof:geomhash":"1d171884faedcbb56cd38f5e10937a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85633813,
+            "county_id":1108730531,
+            "locality_id":1276995989,
+            "region_id":85688915
+        }
+    ],
+    "wof:id":1276995989,
+    "wof:lastmodified":1536884823,
+    "wof:name":"Makhinas",
+    "wof:parent_id":1108730531,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ls",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    27.35,
+    -30.15,
+    27.35,
+    -30.15
+],
+  "geometry": {"coordinates":[27.35,-30.15],"type":"Point"}
+}
