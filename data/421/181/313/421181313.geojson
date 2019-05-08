@@ -5,11 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.11603,-29.459291,28.11603,-29.459291",
     "geom:latitude":-29.459291,
     "geom:longitude":28.11603,
     "iso:country":"LS",
+    "label:eng_x_preferred_longname":[
+        "Mants'onyane County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +50,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459009292,
-    "wof:geomhash":"df3b2cd8201e423131971b0d5f52019c",
+    "wof:geomhash":"ca57b426011967be3008f2421fe25ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":421181313,
-    "wof:lastmodified":1466635853,
+    "wof:lastmodified":1555220345,
     "wof:name":"Mants'onyane",
     "wof:parent_id":85673857,
     "wof:placetype":"county",

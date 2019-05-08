@@ -5,11 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.47406,-29.303166,27.47406,-29.303166",
     "geom:latitude":-29.303166,
     "geom:longitude":27.47406,
     "iso:country":"LS",
+    "label:eng_x_preferred_longname":[
+        "Maseru County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +50,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459009449,
-    "wof:geomhash":"fb74a199f5f2e5d075ba182b3156c85a",
+    "wof:geomhash":"aae48a1d058386f0c7d61ffbe1a275a2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":421185631,
-    "wof:lastmodified":1466635861,
+    "wof:lastmodified":1555220346,
     "wof:name":"Maseru",
     "wof:parent_id":85673827,
     "wof:placetype":"county",

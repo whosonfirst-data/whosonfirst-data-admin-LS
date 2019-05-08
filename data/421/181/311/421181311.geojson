@@ -5,11 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.650486,-28.584687,28.650486,-28.584687",
     "geom:latitude":-28.584687,
     "geom:longitude":28.650486,
     "iso:country":"LS",
+    "label:eng_x_preferred_longname":[
+        "Mechechane County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +50,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459009292,
-    "wof:geomhash":"da760a291229ff12b56539aa4922b00a",
+    "wof:geomhash":"df1bc6a06c27e56685a8a004389d5e15",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":421181311,
-    "wof:lastmodified":1466635853,
+    "wof:lastmodified":1555220345,
     "wof:name":"Mechechane",
     "wof:parent_id":85673839,
     "wof:placetype":"county",

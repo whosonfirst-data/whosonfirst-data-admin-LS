@@ -5,11 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"28.313055,-28.716861,28.313055,-28.716861",
     "geom:latitude":-28.716861,
     "geom:longitude":28.313055,
     "iso:country":"LS",
+    "label:eng_x_preferred_longname":[
+        "Butha-Buthe County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +50,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459009140,
-    "wof:geomhash":"c105122b3b918a6908db5803b0e4b047",
+    "wof:geomhash":"ac09c6e71eda1d88a2cf7ec97001252f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":421177303,
-    "wof:lastmodified":1466635845,
+    "wof:lastmodified":1555220345,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85673839,
     "wof:placetype":"county",

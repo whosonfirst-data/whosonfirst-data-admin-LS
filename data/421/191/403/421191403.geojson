@@ -5,11 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"29.181166,-29.385465,29.181166,-29.385465",
     "geom:latitude":-29.385465,
     "geom:longitude":29.181166,
     "iso:country":"LS",
+    "label:eng_x_preferred_longname":[
+        "Mokhotlong County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +50,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459009691,
-    "wof:geomhash":"ccd5d73b508b534f789f965ea7ab5dc9",
+    "wof:geomhash":"73dfe99fed79be357c55d6cd5e019631",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":421191403,
-    "wof:lastmodified":1466635873,
+    "wof:lastmodified":1555220347,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"county",

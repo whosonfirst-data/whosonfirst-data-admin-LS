@@ -5,11 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"27.46582,-29.494596,27.46582,-29.494596",
     "geom:latitude":-29.494596,
     "geom:longitude":27.46582,
     "iso:country":"LS",
+    "label:eng_x_preferred_longname":[
+        "Qeme County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -42,7 +50,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459008978,
-    "wof:geomhash":"f8ad1234c6c8ef8a9d68947c629bba26",
+    "wof:geomhash":"cf216d0468f8c50cc3c1c677c336352a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -52,7 +60,7 @@
         }
     ],
     "wof:id":421173317,
-    "wof:lastmodified":1466635837,
+    "wof:lastmodified":1555220345,
     "wof:name":"Qeme",
     "wof:parent_id":85673827,
     "wof:placetype":"county",
