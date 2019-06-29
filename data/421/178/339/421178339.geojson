@@ -20,22 +20,16 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0648\u062a\u0644\u0648\u0646\u062c"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u970d\u7279\u9686"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mokhotlong"
     ],
     "name:eng_x_preferred":[
         "Mokhotlong"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mokhotlong"
     ],
     "name:frr_x_preferred":[
-        "Mokhotlong"
-    ],
-    "name:ger_x_preferred":[
         "Mokhotlong"
     ],
     "name:ita_x_preferred":[
@@ -47,6 +41,9 @@
     "name:lit_x_preferred":[
         "Mokotlongas"
     ],
+    "name:nld_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:nob_x_preferred":[
         "Mokhotlong"
     ],
@@ -56,7 +53,7 @@
     "name:por_x_preferred":[
         "Mokhotlong"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mokhotlong"
     ],
     "name:rus_x_preferred":[
@@ -73,6 +70,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u043e\u0442\u043b\u043e\u043d\u0433"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u970d\u7279\u9686"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Lesotho",
@@ -214,7 +214,7 @@
         }
     ],
     "wof:id":421178339,
-    "wof:lastmodified":1527717718,
+    "wof:lastmodified":1561831543,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"locality",

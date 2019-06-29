@@ -22,13 +22,7 @@
     "name:bre_x_preferred":[
         "Teyateyaneng"
     ],
-    "name:chi_x_preferred":[
-        "\u6cf0\u4e9e\u6cf0\u4e9e\u5ae9"
-    ],
     "name:deu_x_preferred":[
-        "Teyateyaneng"
-    ],
-    "name:dut_x_preferred":[
         "Teyateyaneng"
     ],
     "name:eng_x_preferred":[
@@ -37,13 +31,7 @@
     "name:fra_x_preferred":[
         "Teyateyaneng"
     ],
-    "name:fre_x_preferred":[
-        "Teyateyaneng"
-    ],
     "name:frr_x_preferred":[
-        "Teyateyaneng"
-    ],
-    "name:ger_x_preferred":[
         "Teyateyaneng"
     ],
     "name:heb_x_preferred":[
@@ -80,9 +68,6 @@
         "Teyateyaneng"
     ],
     "name:ron_x_preferred":[
-        "Teyateyaneng"
-    ],
-    "name:rum_x_preferred":[
         "Teyateyaneng"
     ],
     "name:rus_x_preferred":[
@@ -151,7 +136,7 @@
         }
     ],
     "wof:id":421177165,
-    "wof:lastmodified":1527716482,
+    "wof:lastmodified":1561831543,
     "wof:name":"Teyateyaneng",
     "wof:parent_id":85673823,
     "wof:placetype":"locality",

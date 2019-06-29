@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470439,
-    "geom:area_square_m":5059579721.462735,
+    "geom:area_square_m":5059579721.462647,
     "geom:bbox":"28.1000215996,-29.8944023583,29.2962785244,-29.1058200006",
     "geom:latitude":-29.566233,
     "geom:longitude":28.595858,
@@ -37,17 +37,17 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u0430-\u0426\u0435\u043a\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u5854\u5df4-\u91c7\u5361\u5340"
-    ],
     "name:dan_x_preferred":[
         "Thaba-Tseka District"
     ],
     "name:deu_x_preferred":[
         "Distrikt Thaba-Tseka"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Thaba-Tseka"
+    ],
+    "name:ell_x_preferred":[
+        "\u0398\u03ac\u03bc\u03c0\u03b1-\u03a4\u03c3\u03ad\u03ba\u03b1"
     ],
     "name:eng_x_preferred":[
         "Thaba-Tseka"
@@ -60,18 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "District de Thaba-Tseka"
-    ],
-    "name:fre_x_preferred":[
-        "District de Thaba-Tseka"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d7\u10d0\u10d1\u10d0-\u10ea\u10d4\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Thaba-Tseka"
-    ],
-    "name:gre_x_preferred":[
-        "\u0398\u03ac\u03bc\u03c0\u03b1-\u03a4\u03c3\u03ad\u03ba\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abe\u0aac\u0abe-\u0aa4\u0acd\u0ab8\u0ac7\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -91,6 +79,9 @@
     "name:kan_x_preferred":[
         "\u0ca5\u0cbe\u0cac\u0cbe -\u0cb8\u0cc6\u0c95\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d7\u10d0\u10d1\u10d0-\u10ea\u10d4\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ubc14\uccb4\uce74 \uad6c"
     ],
@@ -102,9 +93,6 @@
     ],
     "name:mar_x_preferred":[
         "\u0925\u092c\u093e-\u0924\u094d\u0938\u0947\u0915\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Daerah Thaba-Tseka"
     ],
     "name:msa_x_preferred":[
         "Daerah Thaba-Tseka"
@@ -122,9 +110,6 @@
         "Thaba-Tseka"
     ],
     "name:ron_x_preferred":[
-        "Districtul Thaba-Tseka"
-    ],
-    "name:rum_x_preferred":[
         "Districtul Thaba-Tseka"
     ],
     "name:rus_x_preferred":[
@@ -289,7 +274,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561831541,
     "wof:name":"Thaba-Tseka",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

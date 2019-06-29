@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.18905,
-    "geom:area_square_m":2025032024.563866,
+    "geom:area_square_m":2025032024.563877,
     "geom:bbox":"28.2033744654,-30.1732400266,29.1506543371,-29.7388046202",
     "geom:latitude":-29.971309,
     "geom:longitude":28.694821,
@@ -37,14 +37,14 @@
     "name:bul_x_preferred":[
         "\u0426\u0433\u0430\u0447\u0430\u0441-\u041d\u0435\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u52a0\u67e5\u65af\u5167\u514b\u5340"
-    ],
     "name:dan_x_preferred":[
         "Qacha's Nek District"
     ],
-    "name:dut_x_preferred":[
-        "Qacha's Nek"
+    "name:deu_x_preferred":[
+        "Qacha\u2019s Nek"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03ac\u03c4\u03c3\u03b1\u03c2 \u039d\u03b5\u03ba"
     ],
     "name:eng_x_preferred":[
         "Qacha's Nek"
@@ -56,17 +56,8 @@
     "name:fin_x_preferred":[
         "Qacha'snekin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "District de Qacha's Nek"
-    ],
-    "name:geo_x_preferred":[
-        "\u10e5\u10d0\u10e9\u10d0\u10e1 \u10dc\u10d4\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Qacha\u2019s Nek"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ac\u03c4\u03c3\u03b1\u03c2 \u039d\u03b5\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac2\u0a9a\u0abe\u0ab8 \u0aa8\u0ac7\u0a95 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -86,6 +77,9 @@
     "name:kan_x_preferred":[
         "\u0c95\u0c9a\u0cbe \u0ca8 \u0ca8\u0cc6\u0c95\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10e5\u10d0\u10e9\u10d0\u10e1 \u10dc\u10d4\u10d9\u10d8\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\uce74\ucc28\uc2a4\ub124\ud06c \uad6c"
     ],
@@ -98,8 +92,11 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u092f\u0942\u091a\u093e \u0928\u0947\u0915 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Qacha's Nek"
+    ],
+    "name:nld_x_preferred":[
+        "Qacha's Nek"
     ],
     "name:nob_x_preferred":[
         "Qacha's Nek"
@@ -110,7 +107,7 @@
     "name:por_x_preferred":[
         "Qacha's Nek"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Qacha's Nek"
     ],
     "name:rus_x_preferred":[
@@ -148,6 +145,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Qacha's Nek"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u67e5\u65af\u5167\u514b\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LSO",
@@ -272,7 +272,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561831541,
     "wof:name":"Qacha's Nek",
     "wof:parent_id":85632173,
     "wof:placetype":"region",
