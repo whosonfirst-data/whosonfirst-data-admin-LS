@@ -28,9 +28,6 @@
     "name:fra_x_preferred":[
         "Chutes du Maletsunyane"
     ],
-    "name:fre_x_preferred":[
-        "Chutes du Maletsunyane"
-    ],
     "name:jpn_x_preferred":[
         "\u30de\u30ec\u30c4\u30cb\u30e3\u30fc\u30cd\u6edd"
     ],
@@ -95,7 +92,7 @@
         }
     ],
     "wof:id":421183949,
-    "wof:lastmodified":1555220346,
+    "wof:lastmodified":1561831543,
     "wof:name":"Maletsunyane",
     "wof:parent_id":85673857,
     "wof:placetype":"county",

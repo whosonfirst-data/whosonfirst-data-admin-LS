@@ -17,14 +17,11 @@
     "name:afr_x_preferred":[
         "Hlotse"
     ],
-    "name:chi_x_preferred":[
-        "\u83b1\u91cc\u8d1d"
-    ],
     "name:deu_x_preferred":[
         "Hlotse"
     ],
-    "name:dut_x_preferred":[
-        "Hlotse"
+    "name:ell_x_preferred":[
+        "\u03a7\u03bb\u03cc\u03c4\u03c3\u03b5"
     ],
     "name:eng_x_preferred":[
         "Hlotse"
@@ -32,17 +29,11 @@
     "name:fin_x_preferred":[
         "Hlotse"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Leribe"
     ],
     "name:frr_x_preferred":[
         "Hlotse"
-    ],
-    "name:ger_x_preferred":[
-        "Hlotse"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03bb\u03cc\u03c4\u03c3\u03b5"
     ],
     "name:ita_x_preferred":[
         "Hlotse"
@@ -53,6 +44,9 @@
     "name:lit_x_preferred":[
         "Hloc\u0117"
     ],
+    "name:nld_x_preferred":[
+        "Hlotse"
+    ],
     "name:nob_x_preferred":[
         "Hlotse"
     ],
@@ -62,7 +56,7 @@
     "name:por_x_preferred":[
         "Hlotse"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hlotse"
     ],
     "name:rus_x_preferred":[
@@ -88,6 +82,9 @@
     ],
     "name:vep_x_preferred":[
         "Hloce"
+    ],
+    "name:zho_x_preferred":[
+        "\u83b1\u91cc\u8d1d"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Lesotho",
@@ -226,7 +223,7 @@
         }
     ],
     "wof:id":421168785,
-    "wof:lastmodified":1514470278,
+    "wof:lastmodified":1561831542,
     "wof:name":"Leribe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",

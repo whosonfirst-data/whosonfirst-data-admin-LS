@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158777,
-    "geom:area_square_m":1720464520.106102,
+    "geom:area_square_m":1720464520.106067,
     "geom:bbox":"28.2181160939,-29.0726437306,28.8308813819,-28.5707614137",
     "geom:latitude":-28.799762,
     "geom:longitude":28.563809,
@@ -28,9 +28,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u062b\u0627-\u0628\u0648\u062b"
     ],
-    "name:arm_x_preferred":[
-        "\u0532\u0578\u0582\u0569\u0561 \u0532\u0578\u0582\u0569\u0565"
-    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09a5\u09be \u09ac\u09c1\u09a5\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
@@ -40,17 +37,17 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5854-\u5e03\u6cf0\u5340"
-    ],
     "name:dan_x_preferred":[
         "Butha-Buthe District"
     ],
     "name:deu_x_preferred":[
         "Distrikt Butha-Buthe"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_variant":[
         "Butha-Buthe"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03cd\u03c4\u03b1-\u039c\u03c0\u03bf\u03cd\u03b8\u03b5"
     ],
     "name:eng_x_preferred":[
         "Butha-Buthe"
@@ -66,18 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "District de Butha-Buthe"
-    ],
-    "name:fre_x_preferred":[
-        "District de Butha-Buthe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e3\u10e2\u10d0-\u10d1\u10e3\u10e2\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Butha-Buthe"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03cd\u03c4\u03b1-\u039c\u03c0\u03bf\u03cd\u03b8\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0aa5\u0abe-\u0aac\u0ac1\u0aa5\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -100,6 +85,9 @@
     "name:kan_x_preferred":[
         "\u0cac\u0cc1\u0ca5\u0cbe-\u0cac\u0cc1\u0ca5\u0cc6 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e2\u10d0-\u10d1\u10e3\u10e2\u10d4\u10e1 \u10dd\u10da\u10e5\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ubd80\ud0c0\ubd80\ud14c \uad6c"
     ],
@@ -111,9 +99,6 @@
     ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u091f\u093e-\u092c\u0941\u0920\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
-    ],
-    "name:may_x_preferred":[
-        "Daerah Butha-Buthe"
     ],
     "name:msa_x_preferred":[
         "Daerah Butha-Buthe"
@@ -131,9 +116,6 @@
         "Butha-Buthe"
     ],
     "name:ron_x_preferred":[
-        "Districtul Botha-Buthe"
-    ],
-    "name:rum_x_preferred":[
         "Districtul Botha-Buthe"
     ],
     "name:rus_x_preferred":[
@@ -298,7 +280,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1553814807,
+    "wof:lastmodified":1561831541,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

@@ -19,19 +19,10 @@
     "name:deu_x_preferred":[
         "Maputsoe"
     ],
-    "name:dut_x_preferred":[
-        "Maputsoe"
-    ],
     "name:eng_x_preferred":[
         "Maputsoe"
     ],
     "name:fra_x_preferred":[
-        "Maputsoe"
-    ],
-    "name:fre_x_preferred":[
-        "Maputsoe"
-    ],
-    "name:ger_x_preferred":[
         "Maputsoe"
     ],
     "name:ita_x_preferred":[
@@ -104,7 +95,7 @@
         }
     ],
     "wof:id":421182759,
-    "wof:lastmodified":1527726456,
+    "wof:lastmodified":1561831543,
     "wof:name":"Maputsoe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",

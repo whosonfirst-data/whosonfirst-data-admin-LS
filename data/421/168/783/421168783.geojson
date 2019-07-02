@@ -23,13 +23,7 @@
     "name:aze_x_preferred":[
         "Mafetenq"
     ],
-    "name:chi_x_preferred":[
-        "\u9a6c\u8d39\u6ed5"
-    ],
     "name:deu_x_preferred":[
-        "Mafeteng"
-    ],
-    "name:dut_x_preferred":[
         "Mafeteng"
     ],
     "name:eng_x_preferred":[
@@ -38,13 +32,7 @@
     "name:fra_x_preferred":[
         "Mafeteng"
     ],
-    "name:fre_x_preferred":[
-        "Mafeteng"
-    ],
     "name:frr_x_preferred":[
-        "Mafeteng"
-    ],
-    "name:ger_x_preferred":[
         "Mafeteng"
     ],
     "name:hrv_x_preferred":[
@@ -72,9 +60,6 @@
         "Mafeteng"
     ],
     "name:ron_x_preferred":[
-        "Mafeteng"
-    ],
-    "name:rum_x_preferred":[
         "Mafeteng"
     ],
     "name:rus_x_preferred":[
@@ -241,7 +226,7 @@
         }
     ],
     "wof:id":421168783,
-    "wof:lastmodified":1527716095,
+    "wof:lastmodified":1561831543,
     "wof:name":"Mafeteng",
     "wof:parent_id":85673861,
     "wof:placetype":"locality",

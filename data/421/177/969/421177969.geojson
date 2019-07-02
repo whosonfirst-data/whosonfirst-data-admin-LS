@@ -17,13 +17,7 @@
     "name:afr_x_preferred":[
         "Quthing"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u5ef7"
-    ],
     "name:deu_x_preferred":[
-        "Quthing"
-    ],
-    "name:dut_x_preferred":[
         "Quthing"
     ],
     "name:eng_x_preferred":[
@@ -33,12 +27,6 @@
         "Quthing"
     ],
     "name:fra_x_preferred":[
-        "Quthing"
-    ],
-    "name:fre_x_preferred":[
-        "Quthing"
-    ],
-    "name:ger_x_preferred":[
         "Quthing"
     ],
     "name:ita_x_preferred":[
@@ -66,9 +54,6 @@
         "Quthing"
     ],
     "name:ron_x_preferred":[
-        "Quthing"
-    ],
-    "name:rum_x_preferred":[
         "Quthing"
     ],
     "name:rus_x_preferred":[
@@ -236,7 +221,7 @@
         }
     ],
     "wof:id":421177969,
-    "wof:lastmodified":1527716482,
+    "wof:lastmodified":1561831543,
     "wof:name":"Quthing",
     "wof:parent_id":85673833,
     "wof:placetype":"locality",
