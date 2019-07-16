@@ -125,6 +125,9 @@
     "name:glg_x_preferred":[
         "Maseru"
     ],
+    "name:grn_x_preferred":[
+        "Maseru"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab8\u0ac7\u0ab0\u0ac1"
     ],
@@ -133,6 +136,9 @@
     ],
     "name:hat_x_preferred":[
         "Maserou"
+    ],
+    "name:hau_x_preferred":[
+        "Maseru"
     ],
     "name:heb_x_preferred":[
         "\u05de\u05e1\u05e8\u05d5"
@@ -144,6 +150,9 @@
         "\u092e\u093e\u0938\u0947\u0930\u0941"
     ],
     "name:hrv_x_preferred":[
+        "Maseru"
+    ],
+    "name:hsb_x_preferred":[
         "Maseru"
     ],
     "name:hun_x_preferred":[
@@ -278,6 +287,9 @@
     "name:por_x_preferred":[
         "Maseru"
     ],
+    "name:pus_x_preferred":[
+        "\u0645\u0627\u0633\u0631\u0648"
+    ],
     "name:ron_x_preferred":[
         "Maseru"
     ],
@@ -365,6 +377,9 @@
     "name:war_x_preferred":[
         "Maseru"
     ],
+    "name:wuu_x_preferred":[
+        "\u9a6c\u585e\u5362"
+    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d0\u10e1\u10d4\u10e0\u10e3"
     ],
@@ -376,6 +391,9 @@
     ],
     "name:yue_x_preferred":[
         "\u99ac\u4e9b\u76e7"
+    ],
+    "name:yue_x_variant":[
+        "\u99ac\u585e\u76e7"
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u585e\u5362"
@@ -525,7 +543,7 @@
         }
     ],
     "wof:id":421195189,
-    "wof:lastmodified":1561831543,
+    "wof:lastmodified":1563236656,
     "wof:name":"Maseru",
     "wof:parent_id":85673827,
     "wof:placetype":"locality",

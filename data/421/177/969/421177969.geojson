@@ -17,6 +17,9 @@
     "name:afr_x_preferred":[
         "Quthing"
     ],
+    "name:ceb_x_preferred":[
+        "Quthing"
+    ],
     "name:deu_x_preferred":[
         "Quthing"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:fra_x_preferred":[
         "Quthing"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05ea'\u05d9\u05e0\u05d2"
     ],
     "name:ita_x_preferred":[
         "Quthing"
@@ -221,7 +227,7 @@
         }
     ],
     "wof:id":421177969,
-    "wof:lastmodified":1561831543,
+    "wof:lastmodified":1563236659,
     "wof:name":"Quthing",
     "wof:parent_id":85673833,
     "wof:placetype":"locality",

@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0647\u0627\u0644\u064a \u0647\u0648\u0643"
     ],
+    "name:ceb_x_preferred":[
+        "Mohale's Hoek"
+    ],
     "name:deu_x_preferred":[
         "Mohale\u2019s Hoek"
     ],
@@ -28,6 +31,12 @@
     ],
     "name:fra_x_preferred":[
         "Mohale's Hoek"
+    ],
+    "name:frr_x_preferred":[
+        "Mohale's Hoek"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d4\u05d0\u05dc'\u05e1 \u05d4\u05d5\u05e7"
     ],
     "name:ita_x_preferred":[
         "Mohale's Hoek"
@@ -209,7 +218,7 @@
         }
     ],
     "wof:id":421179979,
-    "wof:lastmodified":1561831543,
+    "wof:lastmodified":1563236660,
     "wof:name":"Mohales Hoek",
     "wof:parent_id":85673829,
     "wof:placetype":"locality",

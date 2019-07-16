@@ -16,6 +16,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u043f\u0443\u0446\u043e\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Maputsoe"
+    ],
     "name:deu_x_preferred":[
         "Maputsoe"
     ],
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":421182759,
-    "wof:lastmodified":1561831543,
+    "wof:lastmodified":1563236661,
     "wof:name":"Maputsoe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",

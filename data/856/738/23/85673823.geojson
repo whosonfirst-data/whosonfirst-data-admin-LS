@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0435\u0440\u0435\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Berea"
+    ],
     "name:dan_x_preferred":[
         "Berea District"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Berea"
+    ],
+    "name:fra_x_variant":[
+        "Berea"
+    ],
+    "name:frr_x_preferred":[
+        "Berea"
     ],
     "name:glg_x_preferred":[
         "Distrito de Berea"
@@ -283,7 +292,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831542,
+    "wof:lastmodified":1563236619,
     "wof:name":"Berea",
     "wof:parent_id":85632173,
     "wof:placetype":"region",
