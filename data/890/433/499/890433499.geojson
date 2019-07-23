@@ -19,6 +19,9 @@
     "name:afr_x_preferred":[
         "Qacha's Nek"
     ],
+    "name:ceb_x_preferred":[
+        "Qacha's Nek"
+    ],
     "name:deu_x_preferred":[
         "Qacha\u2019s Nek"
     ],
@@ -62,6 +65,9 @@
         "Qacha's Nek"
     ],
     "name:spa_x_preferred":[
+        "Qacha's Nek"
+    ],
+    "name:swe_x_preferred":[
         "Qacha's Nek"
     ],
     "name:ukr_x_preferred":[
@@ -197,7 +203,7 @@
         }
     ],
     "wof:id":890433499,
-    "wof:lastmodified":1561831543,
+    "wof:lastmodified":1563236664,
     "wof:name":"Qacha\u2019s Nek",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

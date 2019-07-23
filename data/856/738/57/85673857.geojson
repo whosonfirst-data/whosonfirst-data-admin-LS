@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0422\u0430\u0431\u0430-\u0426\u0435\u043a\u0430"
     ],
+    "name:ceb_x_preferred":[
+        "Thaba-Tseka"
+    ],
     "name:dan_x_preferred":[
         "Thaba-Tseka District"
     ],
@@ -60,6 +63,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Thaba-Tseka"
+    ],
+    "name:fra_x_variant":[
+        "Thaba-Tseka"
+    ],
+    "name:frr_x_preferred":[
+        "Thaba-Tseka"
     ],
     "name:guj_x_preferred":[
         "\u0aa5\u0abe\u0aac\u0abe-\u0aa4\u0acd\u0ab8\u0ac7\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -274,7 +283,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831541,
+    "wof:lastmodified":1563236614,
     "wof:name":"Thaba-Tseka",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

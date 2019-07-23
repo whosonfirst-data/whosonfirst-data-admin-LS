@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0445\u0430\u043b\u0435\u0441-\u0425\u0443\u043a"
     ],
+    "name:ceb_x_preferred":[
+        "Mohale's Hoek District"
+    ],
     "name:dan_x_preferred":[
         "Mohale's Hoek District"
     ],
@@ -61,6 +64,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Mohale's Hoek"
+    ],
+    "name:fra_x_variant":[
+        "Mohale's Hoek"
+    ],
+    "name:frr_x_preferred":[
+        "Mohale's Hoek"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab9\u0abe\u0ab2\u0ac7\u0ab8 \u0ab9\u0acb\u0a95 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -275,7 +284,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831541,
+    "wof:lastmodified":1563236617,
     "wof:name":"Mohale's Hoek",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

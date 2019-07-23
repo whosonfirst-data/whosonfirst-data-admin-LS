@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u043a\u043e\u0442\u043b\u043e\u043d\u0433"
     ],
+    "name:ceb_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:dan_x_preferred":[
         "Mokhotlong District"
     ],
@@ -52,11 +55,20 @@
     "name:eng_x_preferred":[
         "Mokhotlong"
     ],
+    "name:eng_x_variant":[
+        "Mokhotlong District"
+    ],
     "name:fin_x_preferred":[
         "Mokhotlong"
     ],
     "name:fra_x_preferred":[
         "District de Mokhotlong"
+    ],
+    "name:fra_x_variant":[
+        "Mokhotlong"
+    ],
+    "name:frr_x_preferred":[
+        "Mokhotlong"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0a96\u0acb\u0a9f\u0ab2\u0acb\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -271,7 +283,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831542,
+    "wof:lastmodified":1563236619,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

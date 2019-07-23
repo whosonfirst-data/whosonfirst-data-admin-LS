@@ -37,6 +37,12 @@
     "name:bul_x_preferred":[
         "\u041a\u0443\u0442\u0438\u043d\u0433"
     ],
+    "name:bul_x_variant":[
+        "\u0426\u0433\u0443\u0442\u0438\u043d\u0433"
+    ],
+    "name:ceb_x_preferred":[
+        "Quthing"
+    ],
     "name:dan_x_preferred":[
         "Quthing District"
     ],
@@ -60,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Quthing"
+    ],
+    "name:fra_x_variant":[
+        "Quthing"
+    ],
+    "name:frr_x_preferred":[
+        "Quthing"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0aaf\u0ac1\u0aa5\u0abf\u0a82\u0a97 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -120,6 +132,9 @@
     ],
     "name:spa_x_preferred":[
         "Distrito de Quthing"
+    ],
+    "name:spa_x_variant":[
+        "Quthing"
     ],
     "name:swe_x_preferred":[
         "Quthing"
@@ -274,7 +289,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831541,
+    "wof:lastmodified":1563236615,
     "wof:name":"Quthing",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

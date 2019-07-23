@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Butha-Buthe"
+    ],
     "name:dan_x_preferred":[
         "Butha-Buthe District"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Butha-Buthe"
+    ],
+    "name:fra_x_variant":[
+        "Butha-Buthe"
+    ],
+    "name:frr_x_preferred":[
+        "Butha-Buthe"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0aa5\u0abe-\u0aac\u0ac1\u0aa5\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -280,7 +289,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831541,
+    "wof:lastmodified":1563236618,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

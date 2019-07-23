@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041b\u0435\u0440\u0438\u0431\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Leribe District"
+    ],
     "name:dan_x_preferred":[
         "Leribe District"
     ],
@@ -63,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Leribe"
+    ],
+    "name:fra_x_variant":[
+        "Leribe"
+    ],
+    "name:frr_x_preferred":[
+        "Leribe"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0ab0\u0abf\u0aac \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -96,6 +105,9 @@
     ],
     "name:lit_x_preferred":[
         "Lerib\u0117s rajonas"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d46\u0d30\u0d3f\u0d2c\u0d46 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0932\u093e\u0930\u0940\u092c \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -280,7 +292,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831541,
+    "wof:lastmodified":1563236617,
     "wof:name":"Leribe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

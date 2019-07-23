@@ -37,6 +37,9 @@
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u0440\u0443"
     ],
+    "name:ceb_x_preferred":[
+        "Maseru"
+    ],
     "name:dan_x_preferred":[
         "Maseru"
     ],
@@ -52,6 +55,9 @@
     "name:eng_x_preferred":[
         "Maseru"
     ],
+    "name:eng_x_variant":[
+        "Maseru District"
+    ],
     "name:est_x_preferred":[
         "Maseru ringkond"
     ],
@@ -60,6 +66,12 @@
     ],
     "name:fra_x_preferred":[
         "District de Maseru"
+    ],
+    "name:fra_x_variant":[
+        "Maseru"
+    ],
+    "name:frr_x_preferred":[
+        "Maseru"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab8\u0ac7\u0ab0\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -274,7 +286,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1561831541,
+    "wof:lastmodified":1563236616,
     "wof:name":"Maseru",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

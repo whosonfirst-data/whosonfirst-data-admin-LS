@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0648\u062a\u0644\u0648\u0646\u062c"
     ],
+    "name:ceb_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:deu_x_preferred":[
         "Mokhotlong"
     ],
@@ -31,6 +34,9 @@
     ],
     "name:frr_x_preferred":[
         "Mokhotlong"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05d7\u05d5\u05d8\u05dc\u05d5\u05e0\u05d2"
     ],
     "name:ita_x_preferred":[
         "Mokhotlong"
@@ -58,6 +64,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041c\u043e\u0445\u043e\u0442\u043b\u043e\u043d\u0433"
+    ],
+    "name:rus_x_variant":[
+        "\u041c\u043e\u043a\u043e\u0442\u043b\u043e\u043d\u0433"
     ],
     "name:sot_x_preferred":[
         "Mokhotlong"
@@ -214,7 +223,7 @@
         }
     ],
     "wof:id":421178339,
-    "wof:lastmodified":1561831543,
+    "wof:lastmodified":1563236660,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"locality",
