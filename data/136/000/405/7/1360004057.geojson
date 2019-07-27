@@ -25,6 +25,12 @@
     "iso:country":"LS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hill Top"
+    ],
+    "name:pol_x_preferred":[
+        "Hill Top"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1360004057,
-    "wof:lastmodified":1537059904,
+    "wof:lastmodified":1564187859,
     "wof:name":"Hill Top",
     "wof:parent_id":85673851,
     "wof:placetype":"locality",

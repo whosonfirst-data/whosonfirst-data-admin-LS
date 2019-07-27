@@ -25,6 +25,9 @@
     "iso:country":"LS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mantsonyane"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1344122521,
-    "wof:lastmodified":1537568051,
+    "wof:lastmodified":1564187814,
     "wof:name":"Mantsonyane",
     "wof:parent_id":85673857,
     "wof:placetype":"locality",

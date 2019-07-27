@@ -25,6 +25,9 @@
     "iso:country":"LS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u0435\u043d\u0435\u043d\u0433"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1293497585,
-    "wof:lastmodified":1537568050,
+    "wof:lastmodified":1564187827,
     "wof:name":"Kueneng",
     "wof:parent_id":85673823,
     "wof:placetype":"locality",

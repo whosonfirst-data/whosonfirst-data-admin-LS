@@ -26,6 +26,12 @@
     "iso:country":"LS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nako"
+    ],
+    "name:swe_x_preferred":[
+        "Nako"
+    ],
     "name:und_x_variant":[
         "Makhalaneng",
         "Naku",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1344127953,
-    "wof:lastmodified":1537661846,
+    "wof:lastmodified":1564187812,
     "wof:name":"Nako",
     "wof:parent_id":85673827,
     "wof:placetype":"locality",

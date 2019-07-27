@@ -25,6 +25,15 @@
     "iso:country":"LS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rafolatsane"
+    ],
+    "name:swe_x_preferred":[
+        "Rafolatsane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0444\u043e\u043b\u0430\u0446\u0430\u043d\u0435"
+    ],
     "name:und_x_variant":[
         "Rafolatsana",
         "Rafolatsane"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259701727,
-    "wof:lastmodified":1537661845,
+    "wof:lastmodified":1564187872,
     "wof:name":"Rafolatsane",
     "wof:parent_id":85673847,
     "wof:placetype":"locality",

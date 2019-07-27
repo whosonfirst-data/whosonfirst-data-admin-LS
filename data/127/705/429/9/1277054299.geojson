@@ -25,6 +25,18 @@
     "iso:country":"LS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u043a\u0443\u043d\u043e\u0430\u043d\u0438"
+    ],
+    "name:ceb_x_preferred":[
+        "Makhunoane"
+    ],
+    "name:swe_x_preferred":[
+        "Makhunoane"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0430\u043a\u0443\u043d\u043e\u0430\u043d\u0456"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -47,7 +59,7 @@
         }
     ],
     "wof:id":1277054299,
-    "wof:lastmodified":1537568050,
+    "wof:lastmodified":1564187841,
     "wof:name":"Makhunoane",
     "wof:parent_id":85673839,
     "wof:placetype":"locality",
