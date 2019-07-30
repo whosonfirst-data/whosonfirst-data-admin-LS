@@ -19,6 +19,63 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u062b\u0627 \u0628\u0648\u062b\u064a"
+    ],
+    "name:deu_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:fin_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:fra_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:frr_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:ita_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:ltz_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:nld_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:nor_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:pol_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:por_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:ron_x_preferred":[
+        "Botha-Buthe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
+    ],
+    "name:sot_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:spa_x_preferred":[
+        "Butha-Buthe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u062a\u06be\u0627-\u0628\u0648\u062a\u06be"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5854-\u5e03\u6cf0"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,7 +117,7 @@
         }
     ],
     "wof:id":421177303,
-    "wof:lastmodified":1555220345,
+    "wof:lastmodified":1564187863,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85673839,
     "wof:placetype":"county",

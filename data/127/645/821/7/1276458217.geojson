@@ -26,6 +26,15 @@
     "iso:country":"LS",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "White Hill"
+    ],
+    "name:deu_x_preferred":[
+        "White Hill"
+    ],
+    "name:swe_x_preferred":[
+        "White Hill"
+    ],
     "name:und_x_variant":[
         "Seapa",
         "White Hill"
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276458217,
-    "wof:lastmodified":1537661842,
+    "wof:lastmodified":1564187837,
     "wof:name":"White Hill",
     "wof:parent_id":85673851,
     "wof:placetype":"locality",
