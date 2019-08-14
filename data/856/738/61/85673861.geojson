@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MF"
+    ],
     "lbl:latitude":-29.710552,
     "lbl:longitude":27.266124,
     "mps:latitude":-29.710552,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85673861,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sot",
         "eng"
@@ -286,7 +286,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1563236613,
+    "wof:lastmodified":1565726709,
     "wof:name":"Mafeteng",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

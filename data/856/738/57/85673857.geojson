@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TT"
+    ],
     "lbl:latitude":-29.556942,
     "lbl:longitude":28.555247,
     "mps:latitude":-29.556942,
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85673857,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sot",
         "eng"
@@ -283,7 +283,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1563236614,
+    "wof:lastmodified":1565726709,
     "wof:name":"Thaba-Tseka",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

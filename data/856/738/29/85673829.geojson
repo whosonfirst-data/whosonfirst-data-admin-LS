@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MH"
+    ],
     "lbl:latitude":-30.140908,
     "lbl:longitude":27.598648,
     "mps:latitude":-30.140908,
@@ -273,9 +276,6 @@
         }
     ],
     "wof:id":85673829,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sot",
         "eng"
@@ -284,7 +284,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1563236617,
+    "wof:lastmodified":1565726709,
     "wof:name":"Mohale's Hoek",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

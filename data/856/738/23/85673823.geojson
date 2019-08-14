@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BE"
+    ],
     "lbl:latitude":-29.193764,
     "lbl:longitude":27.890664,
     "mps:latitude":-29.193764,
@@ -281,9 +284,6 @@
         }
     ],
     "wof:id":85673823,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sot",
         "eng"
@@ -292,7 +292,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1563236619,
+    "wof:lastmodified":1565726709,
     "wof:name":"Berea",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

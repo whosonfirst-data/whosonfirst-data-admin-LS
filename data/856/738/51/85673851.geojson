@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QN"
+    ],
     "lbl:latitude":-29.994737,
     "lbl:longitude":28.687577,
     "mps:latitude":-29.994737,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85673851,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sot",
         "eng"
@@ -281,7 +281,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1563236615,
+    "wof:lastmodified":1565726709,
     "wof:name":"Qacha's Nek",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

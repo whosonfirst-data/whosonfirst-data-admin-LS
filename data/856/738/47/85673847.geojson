@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MK"
+    ],
     "lbl:latitude":-29.22192,
     "lbl:longitude":29.015475,
     "mps:latitude":-29.22192,
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85673847,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sot",
         "eng"
@@ -283,7 +283,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1563236619,
+    "wof:lastmodified":1565726709,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

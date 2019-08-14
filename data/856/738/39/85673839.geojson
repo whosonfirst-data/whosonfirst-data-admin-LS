@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":-28.76519,
     "lbl:longitude":28.56847,
     "mps:latitude":-28.76519,
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85673839,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "sot",
         "eng"
@@ -289,7 +289,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1563236618,
+    "wof:lastmodified":1565726709,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",
