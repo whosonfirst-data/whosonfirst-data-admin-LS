@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.13164,-29.68918,27.17164,-29.64918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632173
@@ -34,7 +38,7 @@
         "gn:id":931973
     },
     "wof:country":"LS",
-    "wof:geomhash":"c1ac5032aea132778e9099a5806e66b0",
+    "wof:geomhash":"cbd54f065fb2ed6a59f984cbc6797c1a",
     "wof:hierarchy":[
         {
             "country_id":85632173,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209429545,
-    "wof:lastmodified":1536287276,
+    "wof:lastmodified":1566596484,
     "wof:name":"Tsa Kholo",
     "wof:parent_id":85632173,
     "wof:placetype":"locality",
@@ -52,9 +56,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.151640000000004,
+    27.15164,
     -29.66918,
-    27.151640000000004,
+    27.15164,
     -29.66918
 ],
   "geometry": {"coordinates":[27.15164,-29.66918],"type":"Point"}

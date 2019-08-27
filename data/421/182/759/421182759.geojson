@@ -10,8 +10,12 @@
     "geom:latitude":-28.8866,
     "geom:longitude":27.89914,
     "iso:country":"LS",
+    "lbl:bbox":"27.87914,-28.9066,27.91914,-28.8666",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u043f\u0443\u0446\u043e\u0435"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":932521,
         "gp:id":1352387,
-        "qs:id":944681,
+        "qs_pg:id":944681,
         "wd:id":"Q1892158",
         "wk:page":"Maputsoe"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421182759,
-    "wof:lastmodified":1563236661,
+    "wof:lastmodified":1566596494,
     "wof:name":"Maputsoe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",

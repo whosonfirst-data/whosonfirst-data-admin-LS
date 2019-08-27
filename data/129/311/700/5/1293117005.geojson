@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.83378,-30.07371,27.87378,-30.03371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Na Nohama",
         "Ha Nohana"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293117005,
-    "wof:lastmodified":1537661852,
+    "wof:lastmodified":1566596476,
     "wof:name":"Ha Nohana",
     "wof:parent_id":85673829,
     "wof:placetype":"locality",

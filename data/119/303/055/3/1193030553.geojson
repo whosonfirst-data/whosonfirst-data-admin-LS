@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.46781,-30.31135,27.50781,-30.27135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nkeleng",
         "Mekading",
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193030553,
-    "wof:lastmodified":1537661848,
+    "wof:lastmodified":1566596485,
     "wof:name":"Mekaling",
     "wof:parent_id":85673829,
     "wof:placetype":"locality",

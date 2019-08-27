@@ -10,6 +10,9 @@
     "geom:latitude":-30.40001,
     "geom:longitude":27.70027,
     "iso:country":"LS",
+    "lbl:bbox":"27.68027,-30.42001,27.72027,-30.38001",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -77,7 +80,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0433\u0443\u0442\u0456\u043d\u0433"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Moyeni"
     ],
     "name:urd_x_preferred":[
@@ -211,7 +214,7 @@
     "wof:concordances":{
         "gn:id":932183,
         "gp:id":1352464,
-        "qs:id":275849,
+        "qs_pg:id":275849,
         "wd:id":"Q1003318",
         "wk:page":"Quthing"
     },
@@ -227,7 +230,7 @@
         }
     ],
     "wof:id":421177969,
-    "wof:lastmodified":1563236659,
+    "wof:lastmodified":1566596493,
     "wof:name":"Quthing",
     "wof:parent_id":85673833,
     "wof:placetype":"locality",

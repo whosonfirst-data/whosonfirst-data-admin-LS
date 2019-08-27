@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.98787,-29.09472,28.02787,-29.05472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ukr_x_preferred":[
         "\u041a\u0443\u0435\u043d\u0435\u043d\u0433"
     ],
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1293497585,
-    "wof:lastmodified":1564187827,
+    "wof:lastmodified":1566596475,
     "wof:name":"Kueneng",
     "wof:parent_id":85673823,
     "wof:placetype":"locality",

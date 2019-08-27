@@ -16,8 +16,11 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Mokhotlong"
@@ -100,7 +103,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":55881656,
-        "qs:id":1136593
+        "qs_pg:id":1136593
     },
     "wof:country":"LS",
     "wof:created":1459009691,
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":421191403,
-    "wof:lastmodified":1564187863,
+    "wof:lastmodified":1566596493,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"county",

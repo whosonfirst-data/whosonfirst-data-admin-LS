@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.40761,-29.92857,27.44761,-29.88857",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lekhoatsas",
         "Lekoatsa"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1242892253,
-    "wof:lastmodified":1537661850,
+    "wof:lastmodified":1566596495,
     "wof:name":"Lekoatsa",
     "wof:parent_id":85673861,
     "wof:placetype":"locality",

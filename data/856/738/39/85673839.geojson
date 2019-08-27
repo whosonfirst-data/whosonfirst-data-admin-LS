@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-28.76519,
     "lbl:longitude":28.56847,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-28.76519,
     "mps:longitude":28.56847,
     "mz:hierarchy_label":1,
@@ -143,7 +144,7 @@
         "Butha-Buthe"
     ],
     "name:tam_x_preferred":[
-        "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe -\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bbe -\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c41\u0c25\u0c3e-\u0c2c\u0c41\u0c25\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -156,9 +157,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Butha-Buthe District"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u062a\u06be\u0627-\u0628\u0648\u062a\u06be \u0636\u0644\u0639"
@@ -239,9 +237,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-09",
+    "src:population_date":"2006-04-09",
     "statoids:area_km":"1,767",
     "statoids:area_mi":"682",
     "statoids:as_of_date":"2006-04-09",
@@ -266,7 +264,7 @@
         "gp:id":20069862,
         "hasc:id":"LS.BB",
         "iso:id":"LS-B",
-        "qs:id":1180821,
+        "qs_pg:id":1180821,
         "unlc:id":"LS-B",
         "wd:id":"Q535632",
         "wk:page":"Butha-Buthe District"
@@ -289,11 +287,10 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1565726709,
+    "wof:lastmodified":1566596471,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":110320,
     "wof:population_rank":9,

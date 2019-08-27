@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.45549,-30.12729,27.49549,-30.08729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Old Mohales Hoek Store",
         "Old Mohales Hoek"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1360103401,
-    "wof:lastmodified":1537661846,
+    "wof:lastmodified":1566596490,
     "wof:name":"Old Mohales Hoek",
     "wof:parent_id":85673829,
     "wof:placetype":"locality",
