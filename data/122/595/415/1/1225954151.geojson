@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.68356,-29.24257,27.72356,-29.20257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Majatla",
         "Litsilong"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1225954151,
-    "wof:lastmodified":1537661850,
+    "wof:lastmodified":1566596502,
     "wof:name":"Litsilong",
     "wof:parent_id":85673823,
     "wof:placetype":"locality",

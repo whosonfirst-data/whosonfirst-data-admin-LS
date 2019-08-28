@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-29.710552,
     "lbl:longitude":27.266124,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-29.710552,
     "mps:longitude":27.266124,
     "mz:hierarchy_label":1,
@@ -140,7 +141,7 @@
         "Mafeteng District"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bbe\u0baa\u0bbf\u0b9f\u0bc7\u0b99\u0bcd  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bae\u0bbe\u0baa\u0bbf\u0b9f\u0bc7\u0b99\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c3e\u0c2b\u0c46\u0c1f\u0c46\u0c02\u0c17\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -153,9 +154,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041c\u0430\u0444\u0435\u0442\u0435\u043d\u0433"
-    ],
-    "name:unk_x_variant":[
-        "Mafeteng District"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0641\u06cc\u062a\u06cc\u0646\u06af \u0636\u0644\u0639"
@@ -236,9 +234,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-09",
+    "src:population_date":"2006-04-09",
     "statoids:area_km":"2,119",
     "statoids:area_mi":"818",
     "statoids:as_of_date":"2006-04-09",
@@ -263,7 +261,7 @@
         "gp:id":20069869,
         "hasc:id":"LS.MF",
         "iso:id":"LS-E",
-        "qs:id":241490,
+        "qs_pg:id":241490,
         "unlc:id":"LS-E",
         "wd:id":"Q817342",
         "wk:page":"Mafeteng District"
@@ -286,11 +284,10 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1565726709,
+    "wof:lastmodified":1566596470,
     "wof:name":"Mafeteng",
     "wof:parent_id":85632173,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":192621,
     "wof:population_rank":9,

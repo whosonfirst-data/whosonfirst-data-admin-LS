@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"28.1516,-30.0412,28.1916,-30.0012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1310388281,
-    "wof:lastmodified":1537082907,
+    "wof:lastmodified":1566596487,
     "wof:name":"Mokopung",
     "wof:parent_id":85673829,
     "wof:placetype":"locality",

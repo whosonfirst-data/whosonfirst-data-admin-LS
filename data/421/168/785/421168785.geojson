@@ -10,6 +10,9 @@
     "geom:latitude":-28.87185,
     "geom:longitude":28.04501,
     "iso:country":"LS",
+    "lbl:bbox":"28.02501,-28.89185,28.06501,-28.85185",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -82,9 +85,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0425\u043b\u043e\u0446\u0435"
-    ],
-    "name:unk_x_variant":[
-        "Hlotse"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0644\u0648\u062a\u0633"
@@ -216,7 +216,7 @@
     "wof:concordances":{
         "gn:id":932698,
         "gp:id":1352346,
-        "qs:id":273862,
+        "qs_pg:id":273862,
         "wd:id":"Q993076",
         "wk:page":"Hlotse"
     },
@@ -232,7 +232,7 @@
         }
     ],
     "wof:id":421168785,
-    "wof:lastmodified":1563236653,
+    "wof:lastmodified":1566596492,
     "wof:name":"Leribe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",

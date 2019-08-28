@@ -11,10 +11,14 @@
     "geom:longitude":28.6084,
     "gn:country":"LS",
     "gn:fcode":"PPLA",
-    "gn:pop":5423,
+    "gn:population":5423,
     "iso:country":"LS",
+    "lbl:bbox":"28.5884,-29.54204,28.6284,-29.50204",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:afr_x_preferred":[
         "Thaba-Tseka"
     ],
@@ -92,7 +96,7 @@
     "wof:concordances":{
         "gn:id":1106835,
         "gp:id":56120802,
-        "qs:id":1029749,
+        "qs_pg:id":1029749,
         "wd:id":"Q777028",
         "wk:page":"Thaba-Tseka"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":890443549,
-    "wof:lastmodified":1561831543,
+    "wof:lastmodified":1566596494,
     "wof:name":"Thaba-Tseka",
     "wof:parent_id":85673857,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Maseru",
     "iso:country":"LS",
+    "lbl:bbox":"27.57149,-29.87897,27.61149,-29.83897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pitseng",
         "Qaba"
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1193147187,
-    "wof:lastmodified":1537661845,
+    "wof:lastmodified":1566596485,
     "wof:name":"Qaba",
     "wof:parent_id":85673861,
     "wof:placetype":"locality",

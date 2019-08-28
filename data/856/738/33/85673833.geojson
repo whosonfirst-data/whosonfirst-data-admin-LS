@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-30.410842,
     "lbl:longitude":27.93756,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-30.410842,
     "mps:longitude":27.93756,
     "mz:hierarchy_label":1,
@@ -157,9 +158,6 @@
     "name:ukr_x_preferred":[
         "\u0426\u0433\u0443\u0442\u0456\u043d\u0433"
     ],
-    "name:unk_x_variant":[
-        "Quthing District"
-    ],
     "name:urd_x_preferred":[
         "\u0642\u0648\u062a\u06be\u06cc\u0646\u06af \u0636\u0644\u0639"
     ],
@@ -239,9 +237,9 @@
     "qs:type":"District",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2006-04-09",
+    "src:population_date":"2006-04-09",
     "statoids:area_km":"2,916",
     "statoids:area_mi":"1,126",
     "statoids:as_of_date":"2006-04-09",
@@ -266,7 +264,7 @@
         "gp:id":20069867,
         "hasc:id":"LS.QT",
         "iso:id":"LS-G",
-        "qs:id":69950,
+        "qs_pg:id":69950,
         "unlc:id":"LS-G",
         "wd:id":"Q839060",
         "wk:page":"Quthing District"
@@ -289,11 +287,10 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1565726709,
+    "wof:lastmodified":1566596470,
     "wof:name":"Quthing",
     "wof:parent_id":85632173,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":124048,
     "wof:population_rank":9,
