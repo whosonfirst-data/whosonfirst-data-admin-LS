@@ -879,7 +879,6 @@
     "qs:source":"US State Department, with Natural Earth mods",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
-        "naturalearth",
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
@@ -955,7 +954,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1582347504,
+    "wof:lastmodified":1583227338,
     "wof:name":"Lesotho",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
