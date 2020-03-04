@@ -535,6 +535,9 @@
     },
     "wof:country":"LS",
     "wof:created":1459009835,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"975db34e8532f3b3d8cba8abf353e786",
     "wof:hierarchy":[
         {
@@ -545,7 +548,7 @@
         }
     ],
     "wof:id":421195189,
-    "wof:lastmodified":1566596492,
+    "wof:lastmodified":1582347505,
     "wof:name":"Maseru",
     "wof:parent_id":85673827,
     "wof:placetype":"locality",
