@@ -910,9 +910,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Lesotho",
-        "digitalenvoy:country_code":[
-            426
-        ],
+        "digitalenvoy:country_code":426,
         "fb:id":"en.lesotho",
         "fifa:id":"LES",
         "fips:code":"LT",
@@ -957,7 +955,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1583529176,
+    "wof:lastmodified":1583797383,
     "wof:name":"Lesotho",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
