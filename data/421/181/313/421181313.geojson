@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Mantsonyane"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421181313,
-    "wof:lastmodified":1566596493,
+    "wof:lastmodified":1628266683,
     "wof:name":"Mants'onyane",
     "wof:parent_id":85673857,
     "wof:placetype":"county",

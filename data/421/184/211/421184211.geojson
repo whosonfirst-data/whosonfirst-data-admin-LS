@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"27.7083775,-29.4716165,27.7083775,-29.4716165",
+    "geom:bbox":"27.708378,-29.471616,27.708378,-29.471616",
     "geom:latitude":-29.471616,
     "geom:longitude":27.708378,
     "iso:country":"LS",
@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Roma"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -53,7 +56,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459009403,
-    "wof:geomhash":"c327e7da10ccf5d666a1077813e4fb9f",
+    "wof:geomhash":"2bd725c706f5c74f2d3adbde79e21071",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":421184211,
-    "wof:lastmodified":1566596493,
+    "wof:lastmodified":1628266680,
     "wof:name":"Maama",
     "wof:parent_id":85673827,
     "wof:placetype":"county",
@@ -73,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    27.7083775,
-    -29.4716165,
-    27.7083775,
-    -29.4716165
+    27.708378,
+    -29.471616,
+    27.708378,
+    -29.471616
 ],
-  "geometry": {"coordinates":[27.7083775,-29.4716165],"type":"Point"}
+  "geometry": {"coordinates":[27.708378,-29.471616],"type":"Point"}
 }
