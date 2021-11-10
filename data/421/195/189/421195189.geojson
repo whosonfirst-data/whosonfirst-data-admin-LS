@@ -143,6 +143,9 @@
         "Maseru"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e8\u05db\u05d6 \u05de\u05e9\u05d5\u05e0\u05d0\u05dc\u05e0\u05d3"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05e1\u05e8\u05d5"
     ],
     "name:hif_x_preferred":[
@@ -550,7 +553,7 @@
         }
     ],
     "wof:id":421195189,
-    "wof:lastmodified":1607390893,
+    "wof:lastmodified":1636501496,
     "wof:name":"Maseru",
     "wof:parent_id":85673827,
     "wof:placetype":"locality",

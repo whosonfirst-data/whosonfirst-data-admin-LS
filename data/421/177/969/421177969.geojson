@@ -36,7 +36,13 @@
         "Quthing"
     ],
     "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d8\u05d9\u05e0\u05d2"
+    ],
+    "name:heb_x_variant":[
         "\u05e7\u05d5\u05ea'\u05d9\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Quthing"
     ],
     "name:ita_x_preferred":[
         "Quthing"
@@ -230,7 +236,7 @@
         }
     ],
     "wof:id":421177969,
-    "wof:lastmodified":1566596493,
+    "wof:lastmodified":1636501497,
     "wof:name":"Quthing",
     "wof:parent_id":85673833,
     "wof:placetype":"locality",

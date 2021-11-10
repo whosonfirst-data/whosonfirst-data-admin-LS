@@ -41,6 +41,9 @@
     "name:hrv_x_preferred":[
         "Mafeteng"
     ],
+    "name:hun_x_preferred":[
+        "Mafeteng"
+    ],
     "name:ita_x_preferred":[
         "Mafeteng"
     ],
@@ -229,7 +232,7 @@
         }
     ],
     "wof:id":421168783,
-    "wof:lastmodified":1566596492,
+    "wof:lastmodified":1636501496,
     "wof:name":"Mafeteng",
     "wof:parent_id":85673861,
     "wof:placetype":"locality",

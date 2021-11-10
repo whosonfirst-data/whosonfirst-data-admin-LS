@@ -28,11 +28,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0648\u062a\u0644\u0648\u0646\u062c"
     ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u0996\u09cb\u09a4\u09b2\u0982"
+    ],
     "name:ceb_x_preferred":[
         "Mokhotlong"
     ],
     "name:deu_x_preferred":[
         "Mokhotlong"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03cc\u03ba\u03bf\u03c4\u03bb\u03bf\u03bd\u03b3\u03ba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u062e\u0648\u062a\u0644\u0648\u0646\u06af"
     ],
     "name:fra_x_preferred":[
         "Mokhotlong"
@@ -40,8 +49,23 @@
     "name:frr_x_preferred":[
         "Mokhotlong"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d5\u05dc\u05d3\u05d5\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0916\u094b\u0924\u0932\u094b\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Mokhotlong"
+    ],
+    "name:ind_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:ita_x_preferred":[
         "Mokhotlong"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ucf54\ud2c0\ub871"
     ],
     "name:lit_x_preferred":[
         "Mokotlongas"
@@ -70,8 +94,17 @@
     "name:swe_x_preferred":[
         "Mokhotlong"
     ],
+    "name:tur_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u043e\u0442\u043b\u043e\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06a9\u06be\u0648\u0679\u0648\u0644\u0648\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Mokhotlong"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u970d\u7279\u9686"
@@ -117,7 +150,7 @@
         }
     ],
     "wof:id":421191403,
-    "wof:lastmodified":1566596493,
+    "wof:lastmodified":1636501496,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"county",

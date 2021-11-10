@@ -39,13 +39,28 @@
         "Mokhotlong"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05d5\u05dc\u05d3\u05d5\u05d1\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d5\u05d7\u05d5\u05d8\u05dc\u05d5\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0916\u094b\u0924\u0932\u094b\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Mokhotlong"
+    ],
+    "name:ind_x_preferred":[
+        "Mokhotlong"
     ],
     "name:ita_x_preferred":[
         "Mokhotlong"
     ],
     "name:jpn_x_preferred":[
         "\u30e2\u30b3\u30c8\u30ed\u30f3\u30b0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ucf54\ud2c0\ub871"
     ],
     "name:lit_x_preferred":[
         "Mokotlongas"
@@ -80,8 +95,17 @@
     "name:swe_x_preferred":[
         "Mokhotlong"
     ],
+    "name:tur_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043a\u043e\u0442\u043b\u043e\u043d\u0433"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0648\u06a9\u06be\u0648\u0679\u0648\u0644\u0648\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "Mokhotlong"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u970d\u7279\u9686"
@@ -226,7 +250,7 @@
         }
     ],
     "wof:id":421178339,
-    "wof:lastmodified":1566596494,
+    "wof:lastmodified":1636501497,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"locality",
