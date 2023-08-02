@@ -113,6 +113,9 @@
     "name:kor_x_preferred":[
         "\ub808\ub9ac\ubca0 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub808\ub9ac\ubca0\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Leribes distrikts"
     ],
@@ -178,6 +181,9 @@
     ],
     "name:zho_x_preferred":[
         "\u840a\u91cc\u8c9d\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Leribe"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LSO",
@@ -299,7 +305,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1636501494,
+    "wof:lastmodified":1690938596,
     "wof:name":"Leribe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

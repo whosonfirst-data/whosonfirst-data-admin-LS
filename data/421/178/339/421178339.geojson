@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0643\u0648\u062a\u0644\u0648\u0646\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0643\u0648\u062a\u0644\u0648\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:ceb_x_preferred":[
         "Mokhotlong"
     ],
@@ -30,6 +36,9 @@
         "Mokhotlong"
     ],
     "name:eng_x_preferred":[
+        "Mokhotlong"
+    ],
+    "name:est_x_preferred":[
         "Mokhotlong"
     ],
     "name:fra_x_preferred":[
@@ -64,6 +73,9 @@
     ],
     "name:lit_x_preferred":[
         "Mokotlongas"
+    ],
+    "name:nau_x_preferred":[
+        "Mokhotlong"
     ],
     "name:nld_x_preferred":[
         "Mokhotlong"
@@ -109,6 +121,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u970d\u7279\u9686"
+    ],
+    "name:zul_x_preferred":[
+        "Mokhotlong"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Lesotho",
@@ -250,7 +265,7 @@
         }
     ],
     "wof:id":421178339,
-    "wof:lastmodified":1636501497,
+    "wof:lastmodified":1690938600,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"locality",

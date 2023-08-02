@@ -32,6 +32,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0633\u064a\u0631\u0648"
     ],
+    "name:avk_x_preferred":[
+        "LesotoaMaseruUtca"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09c7\u09b0\u09cb \u099c\u09c7\u09b2\u09be"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:bul_x_preferred":[
         "\u041c\u0430\u0441\u0435\u0440\u0443"
+    ],
+    "name:cat_x_preferred":[
+        "Maseru"
     ],
     "name:ceb_x_preferred":[
         "Maseru"
@@ -65,6 +71,9 @@
     "name:est_x_preferred":[
         "Maseru ringkond"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u0633\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Maserun alue"
     ],
@@ -89,6 +98,9 @@
     "name:hun_x_preferred":[
         "Maseru"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u057d\u0565\u0580\u0578\u0582"
+    ],
     "name:ind_x_preferred":[
         "Distrik Maseru"
     ],
@@ -106,6 +118,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub9c8\uc138\ub8e8 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc138\ub8e8\uad6c"
     ],
     "name:lav_x_preferred":[
         "Maseru distrikts"
@@ -169,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u585e\u76e7\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Maseru"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LSO",
@@ -290,7 +308,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1636501494,
+    "wof:lastmodified":1690938596,
     "wof:name":"Maseru",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

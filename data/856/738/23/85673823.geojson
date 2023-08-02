@@ -86,6 +86,9 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac7\u0ab0\u0abf\u0aaf\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05e8\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0940\u0930\u093f\u092f\u093e \u091c\u093f\u0932\u093e"
     ],
@@ -112,6 +115,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\ub808\uc544 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubca0\ub808\uc544\uad6c"
     ],
     "name:lav_x_preferred":[
         "Berjas distrikts"
@@ -178,6 +184,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f2f\u91cc\u4e9e\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Berea"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LSO",
@@ -299,7 +308,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1636501495,
+    "wof:lastmodified":1690938597,
     "wof:name":"Berea",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

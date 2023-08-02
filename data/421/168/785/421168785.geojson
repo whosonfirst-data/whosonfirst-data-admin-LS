@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Hlotse"
     ],
+    "name:ast_x_preferred":[
+        "Hlotse"
+    ],
     "name:ceb_x_preferred":[
         "Leribe"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:hun_x_preferred":[
         "Lerib\u00e8"
+    ],
+    "name:ind_x_preferred":[
+        "Hlotse"
     ],
     "name:ita_x_preferred":[
         "Hlotse"
@@ -103,6 +109,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83b1\u91cc\u8d1d"
+    ],
+    "name:zul_x_preferred":[
+        "Hlotse"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Lesotho",
@@ -241,7 +250,7 @@
         }
     ],
     "wof:id":421168785,
-    "wof:lastmodified":1636501496,
+    "wof:lastmodified":1690938599,
     "wof:name":"Leribe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",
