@@ -56,6 +56,9 @@
     "name:swe_x_preferred":[
         "Maputsoe"
     ],
+    "name:zul_x_preferred":[
+        "Maputsoe"
+    ],
     "qs:gn_country":"LS",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":932521,
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":421182759,
-    "wof:lastmodified":1566596494,
+    "wof:lastmodified":1690938601,
     "wof:name":"Maputsoe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",

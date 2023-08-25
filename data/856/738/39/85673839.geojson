@@ -41,6 +41,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0442\u0430-\u0411\u0443\u0442\u0435"
     ],
+    "name:cat_x_preferred":[
+        "Butha Buthe"
+    ],
     "name:ceb_x_preferred":[
         "Butha-Buthe"
     ],
@@ -64,6 +67,9 @@
     ],
     "name:est_x_preferred":[
         "Butha-Buthe ringkond"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u062a\u0627-\u0628\u0648\u062a\u0647"
     ],
     "name:fin_x_preferred":[
         "Butha-Buthen alue"
@@ -103,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubd80\ud0c0\ubd80\ud14c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubd80\ud0c0\ubd80\ud14c\uad6c"
     ],
     "name:lav_x_preferred":[
         "Buthabethes distrikts"
@@ -169,6 +178,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5854-\u5e03\u6cf0\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Butha-Buthe"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LSO",
@@ -290,7 +302,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1636501495,
+    "wof:lastmodified":1690938597,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

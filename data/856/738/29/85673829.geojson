@@ -41,6 +41,9 @@
     "name:bul_x_preferred":[
         "\u041c\u043e\u0445\u0430\u043b\u0435\u0441-\u0425\u0443\u043a"
     ],
+    "name:cat_x_preferred":[
+        "Mohale's Hoek"
+    ],
     "name:ceb_x_preferred":[
         "Mohale's Hoek District"
     ],
@@ -90,6 +93,9 @@
     "name:hun_x_preferred":[
         "Mohale's Hoek"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0570\u0561\u056c\u0565\u057d \u0540\u0578\u0582\u056f"
+    ],
     "name:ind_x_preferred":[
         "Distrik Mohale's Hoek"
     ],
@@ -107,6 +113,9 @@
     ],
     "name:kor_x_preferred":[
         "\ubaa8\ud560\ub808\uc2a4\ud6c4\ud06c \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ubaa8\ud560\ub808\uc2a4\ud6c4\ud06c\uad6c"
     ],
     "name:lav_x_preferred":[
         "Mohaleshukas distrikts"
@@ -170,6 +179,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u54c8\u840a\u65af\u80e1\u514b\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Mohale's Hoek"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LSO",
@@ -291,7 +303,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1636501494,
+    "wof:lastmodified":1690938596,
     "wof:name":"Mohale's Hoek",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

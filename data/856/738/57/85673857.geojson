@@ -89,6 +89,9 @@
     "name:hun_x_preferred":[
         "Thaba-Tseka"
     ],
+    "name:hye_x_preferred":[
+        "\u0539\u0561\u0562\u0561-\u0551\u0565\u056f\u0561"
+    ],
     "name:ind_x_preferred":[
         "Distrik Thaba-Tseka"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0c0\ubc14\uccb4\uce74 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\ubc14\uccb4\uce74\uad6c"
     ],
     "name:lav_x_preferred":[
         "Thabacekas distrikts"
@@ -169,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5854\u5df4-\u91c7\u5361\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Thaba-Tseka"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"LSO",
@@ -290,7 +299,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1636501494,
+    "wof:lastmodified":1690938595,
     "wof:name":"Thaba-Tseka",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

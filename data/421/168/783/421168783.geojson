@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u0641\u062a\u064a\u0646\u062c"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0641\u062a\u064a\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Mafeteng"
+    ],
     "name:aze_x_preferred":[
         "Mafetenq"
+    ],
+    "name:ceb_x_preferred":[
+        "Mafeteng"
     ],
     "name:deu_x_preferred":[
         "Mafeteng"
@@ -37,6 +46,9 @@
     ],
     "name:frr_x_preferred":[
         "Mafeteng"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e4\u05d8\u05e0\u05d2"
     ],
     "name:hrv_x_preferred":[
         "Mafeteng"
@@ -52,6 +64,9 @@
     ],
     "name:lit_x_preferred":[
         "Mafetengas"
+    ],
+    "name:nau_x_preferred":[
+        "Mafeteng"
     ],
     "name:nld_x_preferred":[
         "Mafeteng"
@@ -91,6 +106,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9a6c\u8d39\u6ed5"
+    ],
+    "name:zul_x_preferred":[
+        "Mafeteng"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Lesotho",
@@ -232,7 +250,7 @@
         }
     ],
     "wof:id":421168783,
-    "wof:lastmodified":1636501496,
+    "wof:lastmodified":1690938599,
     "wof:name":"Mafeteng",
     "wof:parent_id":85673861,
     "wof:placetype":"locality",

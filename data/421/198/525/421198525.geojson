@@ -23,8 +23,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062b\u0627 \u0628\u0648\u062b\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062b\u0627 \u0628\u0648\u062b\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Butha-Buthe"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09a5\u09be-\u09ac\u09c1\u09a5\u09c7"
+    ],
+    "name:ceb_x_preferred":[
+        "Butha-Buthe"
     ],
     "name:deu_x_preferred":[
         "Butha-Buthe"
@@ -71,6 +80,9 @@
     "name:ltz_x_preferred":[
         "Butha-Buthe"
     ],
+    "name:nau_x_preferred":[
+        "Butha-Buthe"
+    ],
     "name:nld_x_preferred":[
         "Butha-Buthe"
     ],
@@ -115,6 +127,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5854-\u5e03\u6cf0"
+    ],
+    "name:zul_x_preferred":[
+        "Butha-Buthe"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Lesotho",
@@ -256,7 +271,7 @@
         }
     ],
     "wof:id":421198525,
-    "wof:lastmodified":1636501496,
+    "wof:lastmodified":1690938599,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85673843,
     "wof:placetype":"locality",

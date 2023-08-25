@@ -28,6 +28,9 @@
     "mz:is_current":1,
     "mz:max_zoom":9.0,
     "mz:min_zoom":4.0,
+    "name:abk_x_preferred":[
+        "\u041b\u0435\u0441\u043e\u0442\u043e"
+    ],
     "name:ace_x_preferred":[
         "Lesotho"
     ],
@@ -37,14 +40,23 @@
     "name:aka_x_preferred":[
         "L\u025bsutu"
     ],
+    "name:aka_x_variant":[
+        "Lesotho"
+    ],
     "name:als_x_preferred":[
         "Lesotho"
     ],
     "name:amh_x_preferred":[
         "\u120c\u1236\u1276"
     ],
+    "name:ami_x_preferred":[
+        "Lesotho"
+    ],
     "name:ang_x_preferred":[
         "Lesotho"
+    ],
+    "name:anp_x_preferred":[
+        "\u0932\u0947\u0938\u094b\u0925\u094b"
     ],
     "name:ara_x_preferred":[
         "\u0644\u064a\u0633\u0648\u062a\u0648"
@@ -64,6 +76,9 @@
     "name:ast_x_variant":[
         "Lesothu"
     ],
+    "name:avk_x_preferred":[
+        "Lesotoa"
+    ],
     "name:azb_x_preferred":[
         "\u0644\u0633\u0648\u062a\u0648"
     ],
@@ -79,6 +94,9 @@
     "name:ban_x_preferred":[
         "Lesotho"
     ],
+    "name:bar_x_preferred":[
+        "Lesotho"
+    ],
     "name:bcl_x_preferred":[
         "Lesoto"
     ],
@@ -90,6 +108,9 @@
     ],
     "name:bho_x_preferred":[
         "\u0932\u093f\u0938\u094b\u0925\u094b"
+    ],
+    "name:bis_x_preferred":[
+        "Lesoto"
     ],
     "name:bjn_x_preferred":[
         "Lesotho"
@@ -139,10 +160,16 @@
     "name:cor_x_preferred":[
         "Lesotho"
     ],
+    "name:cos_x_preferred":[
+        "Lezotu"
+    ],
     "name:crh_x_preferred":[
         "Lesoto"
     ],
     "name:cym_x_preferred":[
+        "Lesotho"
+    ],
+    "name:dag_x_preferred":[
         "Lesotho"
     ],
     "name:dan_x_preferred":[
@@ -268,6 +295,9 @@
     "name:glv_x_preferred":[
         "Lesoto"
     ],
+    "name:gpe_x_preferred":[
+        "Lesotho"
+    ],
     "name:grn_x_preferred":[
         "Les\u00f3to"
     ],
@@ -276,6 +306,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac7\u0ab8\u0acb\u0aa5\u0acb"
+    ],
+    "name:gur_x_preferred":[
+        "Lesotho"
     ],
     "name:hak_x_preferred":[
         "Lesotho"
@@ -337,6 +370,9 @@
     "name:ilo_x_preferred":[
         "Lesoto"
     ],
+    "name:ilo_x_variant":[
+        "Lesotho"
+    ],
     "name:ina_x_preferred":[
         "Lesotho"
     ],
@@ -354,6 +390,9 @@
     ],
     "name:jav_x_preferred":[
         "Lesotho"
+    ],
+    "name:jav_x_variant":[
+        "L\u00e9sotho"
     ],
     "name:jpn_x_preferred":[
         "\u30ec\u30bd\u30c8"
@@ -442,6 +481,9 @@
     "name:lit_x_preferred":[
         "Lesotas"
     ],
+    "name:lld_x_preferred":[
+        "Lesotho"
+    ],
     "name:lmo_x_preferred":[
         "Lesotho"
     ],
@@ -472,6 +514,12 @@
     "name:mar_x_preferred":[
         "\u0932\u0947\u0938\u094b\u0925\u094b"
     ],
+    "name:mdf_x_preferred":[
+        "\u041b\u044d\u0441\u043e\u0442\u043e"
+    ],
+    "name:mhr_x_preferred":[
+        "\u041b\u0435\u0441\u043e\u0442\u043e"
+    ],
     "name:min_x_preferred":[
         "Lesotho"
     ],
@@ -489,6 +537,9 @@
     ],
     "name:mlt_x_preferred":[
         "Lesoto"
+    ],
+    "name:mni_x_preferred":[
+        "\uabc2\uabe6\uabc1\uabe3\uabca\uabe3"
     ],
     "name:mon_x_preferred":[
         "\u041b\u0435\u0441\u043e\u0442\u043e"
@@ -607,6 +658,9 @@
     "name:que_x_preferred":[
         "Suthusuyu"
     ],
+    "name:rmy_x_preferred":[
+        "Lesotho"
+    ],
     "name:roh_x_preferred":[
         "Lesotho"
     ],
@@ -628,6 +682,9 @@
     "name:san_x_preferred":[
         "\u0932\u0947\u0938\u094b\u0925\u094b"
     ],
+    "name:sat_x_preferred":[
+        "\u1c5e\u1c6e\u1c65\u1c73\u1c5b\u1c77\u1c73"
+    ],
     "name:scn_x_preferred":[
         "Lesothu"
     ],
@@ -636,6 +693,9 @@
     ],
     "name:sgs_x_preferred":[
         "Lesuots"
+    ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u101c\u1084\u1087\u101e\u1030\u101d\u103a\u1038\u1010\u1030\u101d\u103a\u1087"
     ],
     "name:sin_x_preferred":[
         "\u0dbd\u0dd9\u0dc3\u0ddd\u0dad\u0ddd"
@@ -647,6 +707,12 @@
         "Lesoto"
     ],
     "name:sme_x_preferred":[
+        "Lesotho"
+    ],
+    "name:smn_x_preferred":[
+        "Lesotho"
+    ],
+    "name:sms_x_preferred":[
         "Lesotho"
     ],
     "name:sna_x_preferred":[
@@ -740,11 +806,17 @@
     "name:tir_x_preferred":[
         "\u120c\u1236\u1276"
     ],
+    "name:tok_x_preferred":[
+        "ma Lesoto"
+    ],
     "name:ton_x_preferred":[
         "Lesoto"
     ],
     "name:tpi_x_preferred":[
         "Lesoto"
+    ],
+    "name:trv_x_preferred":[
+        "Lesotho"
     ],
     "name:tsn_x_preferred":[
         "Lesotho"
@@ -754,6 +826,9 @@
     ],
     "name:tuk_x_preferred":[
         "Lesoto"
+    ],
+    "name:tum_x_preferred":[
+        "Lesotho"
     ],
     "name:tur_x_preferred":[
         "Lesotho"
@@ -813,6 +888,9 @@
     ],
     "name:xal_x_preferred":[
         "\u041b\u0435\u0441\u043e\u0442\u0438\u043d \u041d\u0443\u0442\u0433"
+    ],
+    "name:xho_x_preferred":[
+        "ELuSuthu"
     ],
     "name:xmf_x_preferred":[
         "\u10da\u10d4\u10e1\u10dd\u10d7\u10dd"
@@ -1086,7 +1164,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1617827547,
+    "wof:lastmodified":1690938598,
     "wof:name":"Lesotho",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

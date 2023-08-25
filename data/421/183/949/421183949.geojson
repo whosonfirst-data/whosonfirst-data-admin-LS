@@ -22,6 +22,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Maletsunyane-waterval"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u0627\u0644\u064a\u062a\u0633\u0648\u0646\u064a\u0627\u0646 \u0641\u0627\u0644\u0633"
+    ],
     "name:cat_x_preferred":[
         "Cascades Maletsunyane"
     ],
@@ -40,6 +46,9 @@
     "name:fra_x_preferred":[
         "Chutes du Maletsunyane"
     ],
+    "name:hye_x_preferred":[
+        "\u0544\u0561\u056c\u0565\u0581\u0578\u0582\u0576\u0575\u0561\u0576 \u057b\u0580\u057e\u0565\u056a"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30ec\u30c4\u30cb\u30e3\u30fc\u30cd\u6edd"
     ],
@@ -48,6 +57,9 @@
     ],
     "name:pol_x_preferred":[
         "Maletsunyane Falls"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u043e\u0434\u043e\u043f\u0430\u0434 \u041c\u0430\u043b\u0435\u0446\u0443\u043d\u044c\u044f\u043d\u0435"
     ],
     "name:spa_x_preferred":[
         "Cataratas Maletsunyane"
@@ -110,7 +122,7 @@
         }
     ],
     "wof:id":421183949,
-    "wof:lastmodified":1566596493,
+    "wof:lastmodified":1690938600,
     "wof:name":"Maletsunyane",
     "wof:parent_id":85673857,
     "wof:placetype":"county",

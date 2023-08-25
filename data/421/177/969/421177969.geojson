@@ -20,6 +20,9 @@
     "name:afr_x_preferred":[
         "Quthing"
     ],
+    "name:ast_x_preferred":[
+        "Quthing"
+    ],
     "name:ceb_x_preferred":[
         "Quthing"
     ],
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":421177969,
-    "wof:lastmodified":1636501497,
+    "wof:lastmodified":1690938600,
     "wof:name":"Quthing",
     "wof:parent_id":85673833,
     "wof:placetype":"locality",
