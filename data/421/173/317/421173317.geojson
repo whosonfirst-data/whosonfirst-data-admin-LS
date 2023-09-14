@@ -22,6 +22,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Qeme"
+    ],
     "name:fra_x_preferred":[
         "Qeme"
     ],
@@ -56,7 +59,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459008978,
-    "wof:geomhash":"cf216d0468f8c50cc3c1c677c336352a",
+    "wof:geomhash":"f8ad1234c6c8ef8a9d68947c629bba26",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":421173317,
-    "wof:lastmodified":1628266706,
+    "wof:lastmodified":1694492301,
     "wof:name":"Qeme",
     "wof:parent_id":85673827,
     "wof:placetype":"county",

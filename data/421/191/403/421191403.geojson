@@ -40,6 +40,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03cc\u03ba\u03bf\u03c4\u03bb\u03bf\u03bd\u03b3\u03ba"
     ],
+    "name:eng_x_preferred":[
+        "Mokhotlong"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u0648\u062e\u0648\u062a\u0644\u0648\u0646\u06af"
     ],
@@ -140,7 +143,7 @@
     },
     "wof:country":"LS",
     "wof:created":1459009691,
-    "wof:geomhash":"73dfe99fed79be357c55d6cd5e019631",
+    "wof:geomhash":"ccd5d73b508b534f789f965ea7ab5dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +153,7 @@
         }
     ],
     "wof:id":421191403,
-    "wof:lastmodified":1636501496,
+    "wof:lastmodified":1694492302,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85673847,
     "wof:placetype":"county",
