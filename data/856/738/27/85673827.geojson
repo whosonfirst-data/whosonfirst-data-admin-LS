@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.357172,
-    "geom:area_square_m":3841762543.421216,
+    "geom:area_square_m":3841762936.161569,
     "geom:bbox":"27.300307,-29.926959,28.203374,-29.264622",
     "geom:latitude":-29.55677,
     "geom:longitude":27.797955,
@@ -284,14 +284,16 @@
         "gn:id":932506,
         "gp:id":20069870,
         "hasc:id":"LS.MS",
+        "iso:code":"LS-A",
         "iso:id":"LS-A",
         "qs_pg:id":241491,
         "unlc:id":"LS-A",
         "wd:id":"Q844921",
         "wk:page":"Maseru District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"422770427070a7215a4c598c6ff55799",
+    "wof:geomhash":"e839749f56632cdab3366005d1deb299",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -308,7 +310,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938596,
+    "wof:lastmodified":1695884884,
     "wof:name":"Maseru",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

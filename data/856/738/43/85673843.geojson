@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250343,
-    "geom:area_square_m":2707340034.182842,
+    "geom:area_square_m":2707341700.415996,
     "geom:bbox":"27.630747,-29.346064,28.791297,-28.700652",
     "geom:latitude":-29.002628,
     "geom:longitude":28.273228,
@@ -281,14 +281,16 @@
         "gn:id":932700,
         "gp:id":20069863,
         "hasc:id":"LS.LE",
+        "iso:code":"LS-C",
         "iso:id":"LS-C",
         "qs_pg:id":1180826,
         "unlc:id":"LS-C",
         "wd:id":"Q819987",
         "wk:page":"Leribe District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"e62b0ff723992ff827a526f560c2203f",
+    "wof:geomhash":"dcdf72eb2261bb564baba9134053c9b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -305,7 +307,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938596,
+    "wof:lastmodified":1695884884,
     "wof:name":"Leribe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.31241,
-    "geom:area_square_m":3343047867.703972,
+    "geom:area_square_m":3343048829.044369,
     "geom:bbox":"27.17135,-30.393425,28.554671,-29.776218",
     "geom:latitude":-30.071154,
     "geom:longitude":27.761107,
@@ -279,14 +279,16 @@
         "gn:id":932439,
         "gp:id":20069868,
         "hasc:id":"LS.MH",
+        "iso:code":"LS-F",
         "iso:id":"LS-F",
         "qs_pg:id":1099764,
         "unlc:id":"LS-F",
         "wd:id":"Q839074",
         "wk:page":"Mohale's Hoek District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"aeb37ea0c31a522e622374c472e1ffce",
+    "wof:geomhash":"2c96ba3708f278105f06addf0e15188e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -303,7 +305,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938596,
+    "wof:lastmodified":1695884884,
     "wof:name":"Mohale's Hoek",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

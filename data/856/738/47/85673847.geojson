@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.355944,
-    "geom:area_square_m":3841057966.370812,
+    "geom:area_square_m":3841059755.434922,
     "geom:bbox":"28.562112,-29.576024,29.435908,-28.759534",
     "geom:latitude":-29.225008,
     "geom:longitude":29.022071,
@@ -275,14 +275,16 @@
         "gn:id":932418,
         "gp:id":20069861,
         "hasc:id":"LS.MK",
+        "iso:code":"LS-J",
         "iso:id":"LS-J",
         "qs_pg:id":241470,
         "unlc:id":"LS-J",
         "wd:id":"Q817340",
         "wk:page":"Mokhotlong District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"b97c3b2600c8fb81a79b70f1ae1b5164",
+    "wof:geomhash":"6034dbd9306e438bd516027524013a81",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -299,7 +301,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938597,
+    "wof:lastmodified":1695884884,
     "wof:name":"Mokhotlong",
     "wof:parent_id":85632173,
     "wof:placetype":"region",
