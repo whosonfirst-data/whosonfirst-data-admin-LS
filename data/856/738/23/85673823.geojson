@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191656,
-    "geom:area_square_m":2069135100.006993,
+    "geom:area_square_m":2069133983.55559,
     "geom:bbox":"27.510686,-29.373401,28.285747,-28.937355",
     "geom:latitude":-29.178904,
     "geom:longitude":27.922885,
@@ -284,14 +284,16 @@
         "gn:id":932932,
         "gp:id":20069865,
         "hasc:id":"LS.BE",
+        "iso:code":"LS-D",
         "iso:id":"LS-D",
         "qs_pg:id":1180916,
         "unlc:id":"LS-D",
         "wd:id":"Q737086",
         "wk:page":"Berea District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"1b490907bb6bc4d5c86a1ce614085564",
+    "wof:geomhash":"4416a558c6e835ff5c8a4f667dd6c5a1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -308,7 +310,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938597,
+    "wof:lastmodified":1695884884,
     "wof:name":"Berea",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

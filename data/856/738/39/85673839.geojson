@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.158777,
-    "geom:area_square_m":1720464520.106067,
+    "geom:area_square_m":1720464530.847322,
     "geom:bbox":"28.218116,-29.072644,28.830881,-28.570761",
     "geom:latitude":-28.799762,
     "geom:longitude":28.563809,
@@ -278,14 +278,16 @@
         "gn:id":932888,
         "gp:id":20069862,
         "hasc:id":"LS.BB",
+        "iso:code":"LS-B",
         "iso:id":"LS-B",
         "qs_pg:id":1180821,
         "unlc:id":"LS-B",
         "wd:id":"Q535632",
         "wk:page":"Butha-Buthe District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"04f1a49c8dddbeb07bf543fe66d3eb9b",
+    "wof:geomhash":"ceeb2a480658756d051825390b014bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -302,7 +304,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938597,
+    "wof:lastmodified":1695884884,
     "wof:name":"Butha-Buthe",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

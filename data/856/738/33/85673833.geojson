@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.266969,
-    "geom:area_square_m":2848664199.044992,
+    "geom:area_square_m":2848663271.683598,
     "geom:bbox":"27.533364,-30.658799,28.355596,-30.001269",
     "geom:latitude":-30.351354,
     "geom:longitude":27.965682,
@@ -281,14 +281,16 @@
         "gn:id":932184,
         "gp:id":20069867,
         "hasc:id":"LS.QT",
+        "iso:code":"LS-G",
         "iso:id":"LS-G",
         "qs_pg:id":69950,
         "unlc:id":"LS-G",
         "wd:id":"Q839060",
         "wk:page":"Quthing District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"a76bda5f96f87fd7d7519187758c5fd9",
+    "wof:geomhash":"c975c064f20aaf16ae057e8b890decd8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -305,7 +307,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938596,
+    "wof:lastmodified":1695884884,
     "wof:name":"Quthing",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

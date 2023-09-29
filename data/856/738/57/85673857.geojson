@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.470439,
-    "geom:area_square_m":5059579721.462647,
+    "geom:area_square_m":5059578578.170315,
     "geom:bbox":"28.100022,-29.894402,29.296279,-29.10582",
     "geom:latitude":-29.566233,
     "geom:longitude":28.595858,
@@ -275,14 +275,16 @@
         "gn:id":932011,
         "gp:id":20069864,
         "hasc:id":"LS.TT",
+        "iso:code":"LS-K",
         "iso:id":"LS-K",
         "qs_pg:id":69869,
         "unlc:id":"LS-K",
         "wd:id":"Q817327",
         "wk:page":"Thaba-Tseka District"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
-    "wof:geomhash":"55c60cd30e75f55d8ad06731d3083334",
+    "wof:geomhash":"19580a055d5c50703c71fd3a04a841f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -299,7 +301,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1690938595,
+    "wof:lastmodified":1695884884,
     "wof:name":"Thaba-Tseka",
     "wof:parent_id":85632173,
     "wof:placetype":"region",

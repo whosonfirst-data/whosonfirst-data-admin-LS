@@ -1132,6 +1132,7 @@
         "hasc:id":"LS",
         "icao:code":"7P",
         "ioc:id":"LES",
+        "iso:code":"LS",
         "itu:id":"LSO",
         "loc:id":"n80049717",
         "m49:code":"426",
@@ -1146,6 +1147,7 @@
         "wk:page":"Lesotho",
         "wmo:id":"LS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"LS",
     "wof:country_alpha3":"LSO",
     "wof:geom_alt":[
@@ -1168,7 +1170,7 @@
         "sot",
         "eng"
     ],
-    "wof:lastmodified":1694639535,
+    "wof:lastmodified":1695881192,
     "wof:name":"Lesotho",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
